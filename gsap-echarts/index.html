@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+
+		
+
+		<link rel="modulepreload" href="/_app/start-3bcb31e7.js">
+		<link rel="modulepreload" href="/_app/chunks/vendor-290f3b74.js">
+		<link rel="modulepreload" href="/_app/chunks/singletons-12a22614.js">
+		<link rel="modulepreload" href="/_app/pages/__layout.svelte-3376e32d.js">
+		<link rel="modulepreload" href="/_app/chunks/store-c60376ac.js">
+		<link rel="modulepreload" href="/_app/pages/gsap-echarts/index.svelte-58c82790.js">
+		<link rel="modulepreload" href="/_app/chunks/LoremIpsum-2c5c7f7e.js">
+		<link rel="modulepreload" href="/_app/chunks/GraphScatterMultiSeriesSerially-ec17065b.js">
+		<link rel="stylesheet" href="/_app/assets/start-61d1577b.css">
+		<link rel="stylesheet" href="/_app/assets/pages/gsap-echarts/index.svelte-dd5826af.css">
+
+		<script type="module">
+			import { start } from "/_app/start-3bcb31e7.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/_app/pages/__layout.svelte-3376e32d.js"),
+						import("/_app/pages/gsap-echarts/index.svelte-58c82790.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "\u002Fgsap-echarts",
+						query: new URLSearchParams(""),
+						params: {}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<select><option value="/">/</option><option value="echarts-svelte-hack">echarts-svelte-hack</option><option value="gsap-echarts">gsap-echarts</option><option value="gsap-mapbox-fly">gsap-mapbox-fly</option></select>
+
+<hr>
+
+<p>A quick hack combining <a target="_blank" href="https://greensock.com/docs/v3/Plugins/ScrollTrigger">GreenSock&#39;s
+ScrollTrigger</a> and <a target="_blank" href="https://echarts.apache.org">Apache ECharts</a>.
+</p>
+
+<div id="controls"><input type="range" min="20" max="200" step="10" value="20"> numPoints:20
+
+    <input type="range" min="1" max="5" step="1" value="2"> numSeries:2</div>
+
+<div id="graph-line" class="svelte-1uararn"><h2>Line graphs</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
+        condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
+        non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p><p>Fringilla ut morbi tincidunt augue interdum velit euismod. Neque vitae
+        tempus quam pellentesque nec nam aliquam sem. Consectetur purus ut
+        faucibus pulvinar elementum integer enim. Neque vitae tempus quam
+        pellentesque. Lectus nulla at volutpat diam ut venenatis tellus in
+        metus. Tristique senectus et netus et malesuada fames. Sem et tortor
+        consequat id.</p>
+
+    <div><div id="graph-GraphLineMultiSeriesSimultaneously" style="height: 150px"></div></div>
+
+    <div><div id="graph-GraphLineMultiSeriesSerially" style="height: 150px"></div></div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
+        condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
+        non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p></div>
+
+<div id="graph-bar" class="svelte-1uararn"><h2>Bar graphs</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
+        condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
+        non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p>
+
+    <div><div id="graph-GraphStackedBarMultiSeriesSimultaneously" style="height: 150px"></div></div>
+
+    <div><div id="graph-GraphStackedBarMultiSeriesSerially" style="height: 150px"></div></div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
+        condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
+        non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p><p>Fringilla ut morbi tincidunt augue interdum velit euismod. Neque vitae
+        tempus quam pellentesque nec nam aliquam sem. Consectetur purus ut
+        faucibus pulvinar elementum integer enim. Neque vitae tempus quam
+        pellentesque. Lectus nulla at volutpat diam ut venenatis tellus in
+        metus. Tristique senectus et netus et malesuada fames. Sem et tortor
+        consequat id.</p></div>
+
+<div id="graph-scatter" class="svelte-1uararn"><h2>Scatter graphs</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
+        condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
+        non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p>
+
+    <div><div id="graph-GraphScatterMultiSeriesSimultaneously" style="height: 150px"></div></div>
+
+    <div><div id="graph-GraphScatterMultiSeriesSerially" style="height: 150px"></div></div>
+</div>
+
+
+
+			
+		</div>
+	</body>
+</html>

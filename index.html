@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+
+		
+
+		<link rel="modulepreload" href="/_app/start-3bcb31e7.js">
+		<link rel="modulepreload" href="/_app/chunks/vendor-290f3b74.js">
+		<link rel="modulepreload" href="/_app/chunks/singletons-12a22614.js">
+		<link rel="modulepreload" href="/_app/pages/__layout.svelte-3376e32d.js">
+		<link rel="modulepreload" href="/_app/chunks/store-c60376ac.js">
+		<link rel="modulepreload" href="/_app/pages/index.svelte-1f415718.js">
+		<link rel="stylesheet" href="/_app/assets/start-61d1577b.css">
+
+		<script type="module">
+			import { start } from "/_app/start-3bcb31e7.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/_app/pages/__layout.svelte-3376e32d.js"),
+						import("/_app/pages/index.svelte-1f415718.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "\u002F",
+						query: new URLSearchParams(""),
+						params: {}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<select><option value="/">/</option><option value="echarts-svelte-hack">echarts-svelte-hack</option><option value="gsap-echarts">gsap-echarts</option><option value="gsap-mapbox-fly">gsap-mapbox-fly</option></select>
+
+<hr>
+
+<h2>Experiments</h2>
+
+<ul><li>Stuff might work, stuff might not.</li>
+    <li>Probably works better under Chrome than Safari.</li>
+    <li>If it breaks, reload the page.</li>
+    <li>Pick something from the select control above.</li></ul>
+
+
+
+			
+		</div>
+	</body>
+</html>
