@@ -1,0 +1,2532 @@
+Country,Date,New tests per thousand 7 day smoothed
+Australia,2020-03-29,0.378
+Australia,2020-03-30,0.392
+Australia,2020-03-31,0.406
+Australia,2020-04-01,0.42
+Australia,2020-04-02,0.434
+Australia,2020-04-03,0.448
+Australia,2020-04-04,0.462
+Australia,2020-04-05,0.476
+Australia,2020-04-06,0.438
+Australia,2020-04-07,0.415
+Australia,2020-04-08,0.395
+Australia,2020-04-09,0.387
+Australia,2020-04-10,0.364
+Australia,2020-04-11,0.349
+Australia,2020-04-12,0.315
+Australia,2020-04-13,0.329
+Australia,2020-04-14,0.309
+Australia,2020-04-15,0.288
+Australia,2020-04-16,0.276
+Australia,2020-04-17,0.295
+Australia,2020-04-18,0.325
+Australia,2020-04-19,0.371
+Australia,2020-04-20,0.386
+Australia,2020-04-21,0.406
+Australia,2020-04-22,0.449
+Australia,2020-04-23,0.48
+Australia,2020-04-24,0.503
+Australia,2020-04-25,0.486
+Australia,2020-04-26,0.473
+Australia,2020-04-27,0.473
+Australia,2020-04-28,0.503
+Australia,2020-04-29,0.509
+Australia,2020-04-30,0.537
+Australia,2020-05-01,0.59
+Australia,2020-05-02,0.65
+Australia,2020-05-03,0.702
+Australia,2020-05-04,0.738
+Australia,2020-05-05,0.743
+Australia,2020-05-06,0.799
+Australia,2020-05-07,0.88
+Australia,2020-05-08,0.933
+Australia,2020-05-09,1.019
+Australia,2020-05-10,1.079
+Australia,2020-05-11,1.135
+Australia,2020-05-12,1.181
+Australia,2020-05-13,1.221
+Australia,2020-05-14,1.224
+Australia,2020-05-15,1.255
+Australia,2020-05-16,1.22
+Australia,2020-05-17,1.187
+Australia,2020-05-18,1.146
+Australia,2020-05-19,1.152
+Australia,2020-05-20,1.122
+Australia,2020-05-21,1.076
+Australia,2020-05-22,1.035
+Australia,2020-05-23,0.978
+Australia,2020-05-24,1.012
+Australia,2020-05-25,1.009
+Australia,2020-05-26,1.121
+Australia,2020-05-27,1.256
+Australia,2020-05-28,1.273
+Australia,2020-05-29,1.257
+Australia,2020-05-30,1.309
+Australia,2020-05-31,1.273
+Australia,2020-06-01,1.263
+Australia,2020-06-02,1.12
+Australia,2020-06-03,0.966
+Australia,2020-06-04,0.991
+Australia,2020-06-05,1.006
+Australia,2020-06-06,0.898
+Australia,2020-06-07,0.902
+Australia,2020-06-08,0.894
+Australia,2020-06-09,0.888
+Australia,2020-06-10,0.927
+Australia,2020-06-11,0.913
+Australia,2020-06-12,0.922
+Australia,2020-06-13,1.064
+Australia,2020-06-14,1.08
+Australia,2020-06-15,1.078
+Australia,2020-06-16,1.095
+Australia,2020-06-17,1.087
+Australia,2020-06-18,1.198
+Australia,2020-06-19,1.245
+Australia,2020-06-20,1.234
+Australia,2020-06-21,1.268
+Australia,2020-06-22,1.549
+Australia,2020-06-23,1.576
+Australia,2020-06-24,1.686
+Australia,2020-06-25,1.689
+Australia,2020-06-26,1.726
+Australia,2020-06-27,1.832
+Australia,2020-06-28,1.872
+Australia,2020-06-29,1.705
+Australia,2020-06-30,1.79
+Australia,2020-07-01,1.803
+Australia,2020-07-02,1.836
+Australia,2020-07-03,1.861
+Australia,2020-07-04,1.839
+Australia,2020-07-05,1.852
+Australia,2020-07-06,1.903
+Australia,2020-07-07,1.912
+Australia,2020-07-08,1.942
+Australia,2020-07-09,1.923
+Australia,2020-07-10,1.952
+Australia,2020-07-11,1.958
+Australia,2020-07-12,2.006
+Australia,2020-07-13,1.987
+Australia,2020-07-14,2.001
+Australia,2020-07-15,2.026
+Australia,2020-07-16,2.088
+Australia,2020-07-17,2.106
+Australia,2020-07-18,2.173
+Australia,2020-07-19,2.221
+Australia,2020-07-20,2.308
+Australia,2020-07-21,2.374
+Australia,2020-07-22,2.373
+Australia,2020-07-23,2.394
+Australia,2020-07-24,2.465
+Australia,2020-07-25,2.469
+Australia,2020-07-26,2.541
+Australia,2020-07-27,2.508
+Australia,2020-07-28,2.504
+Australia,2020-07-29,2.48
+Australia,2020-07-30,2.463
+Australia,2020-07-31,2.44
+Australia,2020-08-01,2.48
+Australia,2020-08-02,2.278
+Australia,2020-08-03,2.215
+Australia,2020-08-04,2.432
+Australia,2020-08-05,2.514
+Australia,2020-08-06,2.591
+Australia,2020-08-07,2.704
+Australia,2020-08-08,2.532
+Australia,2020-08-09,2.831
+Australia,2020-08-10,2.945
+Australia,2020-08-11,2.762
+Australia,2020-08-12,2.71
+Australia,2020-08-13,2.646
+Australia,2020-08-14,2.528
+Australia,2020-08-15,2.657
+Australia,2020-08-16,2.438
+Australia,2020-08-17,2.313
+Australia,2020-08-18,2.218
+Australia,2020-08-19,2.211
+Australia,2020-08-20,2.211
+Australia,2020-08-21,2.184
+Australia,2020-08-22,2.199
+Australia,2020-08-23,2.266
+Australia,2020-08-24,2.337
+Australia,2020-08-25,2.405
+Australia,2020-08-26,2.47
+Australia,2020-08-27,2.57
+Australia,2020-08-28,2.565
+Australia,2020-08-29,2.561
+Australia,2020-08-30,2.557
+Australia,2020-08-31,2.528
+Australia,2020-09-01,2.443
+Australia,2020-09-02,2.401
+Australia,2020-09-03,2.316
+Australia,2020-09-04,2.447
+Australia,2020-09-05,2.578
+Australia,2020-09-06,2.71
+Australia,2020-09-07,2.653
+Australia,2020-09-08,2.629
+Australia,2020-09-09,2.601
+Australia,2020-09-10,2.541
+Australia,2020-09-11,2.356
+Australia,2020-09-12,2.172
+Australia,2020-09-13,1.987
+Australia,2020-09-14,1.959
+Australia,2020-09-15,1.918
+Australia,2020-09-16,1.856
+Australia,2020-09-17,1.824
+Australia,2020-09-18,1.734
+Australia,2020-09-19,1.643
+Australia,2020-09-20,1.552
+Australia,2020-09-21,1.51
+Australia,2020-09-22,1.522
+Australia,2020-09-23,1.492
+Australia,2020-09-24,1.455
+Australia,2020-09-25,1.431
+Australia,2020-09-26,1.408
+Australia,2020-09-27,1.385
+Australia,2020-09-28,1.35
+Australia,2020-09-29,1.319
+Australia,2020-09-30,1.35
+Australia,2020-10-01,1.32
+Australia,2020-10-02,1.281
+Australia,2020-10-03,1.243
+Australia,2020-10-04,1.204
+Australia,2020-10-05,1.264
+Australia,2020-10-06,1.275
+Australia,2020-10-07,1.19
+Australia,2020-10-08,1.193
+Australia,2020-10-09,1.247
+Australia,2020-10-10,1.301
+Australia,2020-10-11,1.355
+Australia,2020-10-12,1.352
+Australia,2020-10-13,1.349
+Australia,2020-10-14,1.425
+Australia,2020-10-15,1.429
+Australia,2020-10-16,1.448
+Australia,2020-10-17,1.466
+Australia,2020-10-18,1.484
+Australia,2020-10-19,1.484
+Australia,2020-10-20,1.492
+Australia,2020-10-21,1.487
+Australia,2020-10-22,1.5
+Australia,2020-10-23,1.479
+Australia,2020-10-24,1.459
+Australia,2020-10-25,1.439
+Australia,2020-10-26,1.461
+Australia,2020-10-27,1.475
+Australia,2020-10-28,1.508
+Australia,2020-10-29,1.535
+Australia,2020-10-30,1.558
+Australia,2020-10-31,1.58
+Australia,2020-11-01,1.603
+Australia,2020-11-02,1.597
+Australia,2020-11-03,1.599
+Australia,2020-11-04,1.57
+Australia,2020-11-05,1.53
+Australia,2020-11-06,1.524
+Australia,2020-11-07,1.517
+Australia,2020-11-08,1.51
+Australia,2020-11-09,1.504
+Australia,2020-11-10,1.513
+Australia,2020-11-11,1.546
+Australia,2020-11-12,1.614
+Australia,2020-11-13,1.596
+Australia,2020-11-14,1.578
+Australia,2020-11-15,1.56
+Australia,2020-11-16,1.523
+Australia,2020-11-17,1.557
+Australia,2020-11-18,1.581
+Australia,2020-11-19,1.61
+Australia,2020-11-20,1.683
+Australia,2020-11-21,1.755
+Australia,2020-11-22,1.827
+Australia,2020-11-23,1.878
+Australia,2020-11-24,1.852
+Australia,2020-11-25,1.826
+Australia,2020-11-26,1.733
+Australia,2020-11-27,1.641
+Australia,2020-11-28,1.548
+Australia,2020-11-29,1.456
+Australia,2020-11-30,1.415
+Australia,2020-12-01,1.378
+Australia,2020-12-02,1.304
+Australia,2020-12-03,1.272
+Australia,2020-12-04,1.236
+Australia,2020-12-05,1.199
+Australia,2020-12-06,1.162
+Australia,2020-12-07,1.153
+Australia,2020-12-08,1.122
+Australia,2020-12-09,1.112
+Australia,2020-12-10,1.104
+Australia,2020-12-11,1.097
+Australia,2020-12-12,1.089
+Australia,2020-12-13,1.081
+Australia,2020-12-14,1.073
+Australia,2020-12-15,1.065
+Australia,2020-12-16,1.038
+Australia,2020-12-17,0.99
+Australia,2020-12-18,1.034
+Australia,2020-12-19,1.078
+Australia,2020-12-20,1.122
+Australia,2020-12-21,1.392
+Australia,2020-12-22,1.697
+Australia,2020-12-23,2.017
+Australia,2020-12-24,2.245
+Australia,2020-12-25,2.449
+Australia,2020-12-26,2.653
+Australia,2020-12-27,2.857
+Australia,2020-12-28,2.632
+Australia,2020-12-29,2.428
+Australia,2020-12-30,2.156
+Australia,2020-12-31,2.08
+Australia,2021-01-01,2.002
+Australia,2021-01-02,1.925
+Australia,2021-01-03,1.848
+Australia,2021-01-04,2.113
+Australia,2021-01-05,2.364
+Australia,2021-01-06,2.701
+Australia,2021-01-07,2.876
+Australia,2021-01-08,2.976
+Australia,2021-01-09,3.075
+Australia,2021-01-10,3.174
+Australia,2021-01-11,3.177
+Australia,2021-01-12,3.041
+Australia,2021-01-13,2.866
+Australia,2021-01-14,2.729
+Australia,2021-01-15,2.566
+Australia,2021-01-16,2.403
+Australia,2021-01-17,2.239
+Australia,2021-01-18,2.042
+Australia,2021-01-19,1.935
+Australia,2021-01-20,1.842
+Australia,2021-01-21,1.785
+Australia,2021-01-22,1.778
+Australia,2021-01-23,1.772
+Australia,2021-01-24,1.704
+Australia,2021-01-25,1.65
+Australia,2021-01-26,1.602
+Australia,2021-01-27,1.51
+Australia,2021-01-28,1.404
+Australia,2021-01-29,1.356
+Australia,2021-01-30,1.307
+Australia,2021-01-31,1.319
+Australia,2021-02-01,1.309
+Australia,2021-02-02,1.331
+Australia,2021-02-03,1.459
+Australia,2021-02-04,1.526
+Australia,2021-02-05,1.59
+Australia,2021-02-06,1.654
+Australia,2021-02-07,1.718
+Australia,2021-02-08,1.838
+Australia,2021-02-09,1.925
+Australia,2021-02-10,1.886
+Australia,2021-02-11,1.966
+Australia,2021-02-12,2.007
+Australia,2021-02-13,2.048
+Australia,2021-02-14,2.089
+Australia,2021-02-15,2.152
+Australia,2021-02-16,2.168
+Australia,2021-02-17,2.35
+Australia,2021-02-18,2.42
+Australia,2021-02-19,2.38
+Australia,2021-02-20,2.339
+Australia,2021-02-21,2.298
+Australia,2021-02-22,2.148
+Australia,2021-02-23,2.085
+Australia,2021-02-24,1.929
+Australia,2021-02-25,1.801
+Australia,2021-02-26,1.746
+Australia,2021-02-27,1.692
+Australia,2021-02-28,1.638
+Australia,2021-03-01,1.57
+Australia,2021-03-02,1.55
+Australia,2021-03-03,1.529
+Australia,2021-03-04,1.524
+Australia,2021-03-05,1.54
+Australia,2021-03-06,1.556
+Australia,2021-03-07,1.572
+Australia,2021-03-08,1.654
+Australia,2021-03-09,1.65
+Australia,2021-03-10,1.574
+Australia,2021-03-11,1.519
+Australia,2021-03-12,1.508
+Australia,2021-03-13,1.497
+Australia,2021-03-14,1.485
+Australia,2021-03-15,1.505
+Australia,2021-03-16,1.525
+Australia,2021-03-17,1.544
+Australia,2021-03-18,1.564
+Australia,2021-03-19,1.571
+Australia,2021-03-20,1.579
+Australia,2021-03-21,1.587
+Australia,2021-03-22,1.519
+Australia,2021-03-23,1.497
+Australia,2021-03-24,1.474
+Australia,2021-03-25,1.453
+Australia,2021-03-26,1.432
+Australia,2021-03-27,1.41
+Australia,2021-03-28,1.389
+Australia,2021-03-29,1.47
+Australia,2021-03-30,1.504
+Australia,2021-03-31,1.76
+Australia,2021-04-01,2.018
+Australia,2021-04-02,2.094
+Australia,2021-04-03,2.171
+Australia,2021-04-04,2.247
+Australia,2021-04-05,2.265
+Australia,2021-04-06,2.175
+Australia,2021-04-07,1.886
+Australia,2021-04-08,1.658
+Australia,2021-04-09,1.603
+Australia,2021-04-10,1.548
+Australia,2021-04-11,1.493
+Australia,2021-04-12,1.404
+Australia,2021-04-13,1.403
+Australia,2021-04-14,1.477
+Australia,2021-04-15,1.476
+Australia,2021-04-16,1.434
+Australia,2021-04-17,1.393
+Australia,2021-04-18,1.351
+Australia,2021-04-19,1.331
+Australia,2021-04-20,1.327
+Australia,2021-04-21,1.283
+Australia,2021-04-22,1.243
+Australia,2021-04-23,1.257
+Australia,2021-04-24,1.256
+Australia,2021-04-25,1.256
+Australia,2021-04-26,1.269
+Australia,2021-04-27,1.51
+Australia,2021-04-28,1.631
+Australia,2021-04-29,1.704
+Australia,2021-04-30,1.723
+Australia,2021-05-01,1.756
+Australia,2021-05-02,1.789
+Australia,2021-05-03,1.834
+Australia,2021-05-04,1.608
+Australia,2021-05-05,1.574
+Australia,2021-05-06,1.575
+Australia,2021-05-07,1.63
+Australia,2021-05-08,1.684
+Australia,2021-05-09,1.739
+Australia,2021-05-10,1.737
+Australia,2021-05-11,1.762
+Australia,2021-05-12,1.808
+Australia,2021-05-13,1.833
+Australia,2021-05-14,1.815
+Australia,2021-05-15,1.798
+Australia,2021-05-16,1.78
+Australia,2021-05-17,1.779
+Australia,2021-05-18,1.856
+Australia,2021-05-19,1.787
+Australia,2021-05-20,1.787
+Australia,2021-05-21,1.772
+Australia,2021-05-22,1.758
+Australia,2021-05-23,1.744
+Australia,2021-05-24,1.718
+Australia,2021-05-25,1.643
+Australia,2021-05-26,1.713
+Australia,2021-05-27,1.855
+Australia,2021-05-28,2.158
+Australia,2021-05-29,2.363
+Australia,2021-05-30,2.568
+Australia,2021-05-31,2.812
+Australia,2021-06-01,2.976
+Australia,2021-06-02,3.119
+Australia,2021-06-03,3.182
+Australia,2021-06-04,3.077
+Australia,2021-06-05,3.07
+Australia,2021-06-06,3.063
+Australia,2021-06-07,3.119
+Australia,2021-06-08,3.067
+Australia,2021-06-09,2.989
+Australia,2021-06-10,2.847
+Australia,2021-06-11,2.728
+Australia,2021-06-12,2.575
+Australia,2021-06-13,2.405
+Australia,2021-06-14,2.173
+Australia,2021-06-15,2.09
+Australia,2021-06-16,1.947
+Australia,2021-06-17,1.967
+Australia,2021-06-18,2.04
+Australia,2021-06-19,2.147
+Australia,2021-06-20,2.269
+Australia,2021-06-21,2.355
+Australia,2021-06-22,2.457
+Australia,2021-06-23,2.726
+Australia,2021-06-24,2.862
+Australia,2021-06-25,2.99
+Australia,2021-06-26,3.118
+Australia,2021-06-27,3.247
+Australia,2021-06-28,3.544
+Australia,2021-06-29,3.856
+Australia,2021-06-30,4.158
+Australia,2021-07-01,4.495
+Australia,2021-07-02,4.7
+Australia,2021-07-03,4.906
+Australia,2021-07-04,5.111
+Australia,2021-07-05,5.203
+Australia,2021-07-06,5.075
+Australia,2021-07-07,4.781
+Australia,2021-07-08,4.39
+Australia,2021-07-09,4.184
+Australia,2021-07-10,3.979
+Australia,2021-07-11,3.773
+Australia,2021-07-12,3.815
+Australia,2021-07-13,3.871
+Australia,2021-07-14,4.033
+Australia,2021-07-15,4.187
+Australia,2021-07-16,4.517
+Australia,2021-07-17,4.847
+Australia,2021-07-18,5.177
+Australia,2021-07-19,5.239
+Australia,2021-07-20,5.581
+Australia,2021-07-21,5.788
+Australia,2021-07-22,6.07
+Australia,2021-07-23,6.193
+Australia,2021-07-24,6.317
+Australia,2021-07-25,6.441
+Australia,2021-07-26,6.564
+Australia,2021-07-27,6.616
+Australia,2021-07-28,6.667
+Australia,2021-07-29,6.719
+Australia,2021-07-30,6.686
+Australia,2021-07-31,6.653
+Australia,2021-08-01,6.621
+Australia,2021-08-02,6.588
+Australia,2021-08-03,6.714
+Australia,2021-08-04,6.841
+Australia,2021-08-05,6.967
+Australia,2021-08-06,7.107
+Australia,2021-08-07,7.248
+Australia,2021-08-08,7.389
+Australia,2021-08-09,7.67
+Australia,2021-08-10,7.467
+Australia,2021-08-11,7.528
+Australia,2021-08-12,7.788
+Australia,2021-08-13,7.851
+Australia,2021-08-14,7.915
+Australia,2021-08-15,7.978
+Australia,2021-08-16,7.9
+Australia,2021-08-17,8.197
+Australia,2021-08-18,8.047
+Australia,2021-08-19,7.843
+Australia,2021-08-20,7.975
+Australia,2021-08-21,8.108
+Australia,2021-08-22,8.24
+Australia,2021-08-23,8.783
+Australia,2021-08-24,9.276
+Australia,2021-08-25,9.487
+Australia,2021-08-26,9.777
+Australia,2021-08-27,9.587
+Australia,2021-08-28,9.398
+Australia,2021-08-29,9.208
+Australia,2021-08-30,8.795
+Australia,2021-08-31,8.288
+Australia,2021-09-01,8.519
+Australia,2021-09-02,8.212
+Australia,2021-09-03,8.281
+Australia,2021-09-04,8.35
+Australia,2021-09-05,8.419
+Australia,2021-09-06,8.313
+Australia,2021-09-07,8.189
+Australia,2021-09-08,7.793
+Australia,2021-09-09,7.998
+Australia,2021-09-10,7.94
+Australia,2021-09-11,7.881
+Australia,2021-09-12,7.823
+Australia,2021-09-13,7.9
+Australia,2021-09-14,7.995
+Australia,2021-09-15,8.09
+Australia,2021-09-16,7.998
+Australia,2021-09-17,8.23
+Australia,2021-09-18,8.461
+Australia,2021-09-19,8.693
+Australia,2021-09-20,8.596
+Australia,2021-09-21,8.538
+Australia,2021-09-22,8.63
+Australia,2021-09-23,8.663
+Australia,2021-09-24,8.401
+Australia,2021-09-25,8.139
+Australia,2021-09-26,7.877
+Australia,2021-09-27,7.69
+Australia,2021-09-28,7.74
+Australia,2021-09-29,7.675
+Australia,2021-09-30,7.589
+Australia,2021-10-01,7.591
+Australia,2021-10-02,7.594
+Australia,2021-10-03,7.596
+Australia,2021-10-04,7.704
+Australia,2021-10-05,7.535
+Australia,2021-10-06,7.43
+Australia,2021-10-07,7.456
+Australia,2021-10-08,7.445
+Australia,2021-10-09,7.435
+Australia,2021-10-10,7.425
+Australia,2021-10-11,7.399
+Australia,2021-10-12,7.431
+Australia,2021-10-13,7.535
+Australia,2021-10-14,7.415
+Australia,2021-10-15,7.286
+Australia,2021-10-16,7.158
+Australia,2021-10-17,7.03
+Australia,2021-10-18,6.916
+Australia,2021-10-19,6.92
+Australia,2021-10-20,6.821
+Australia,2021-10-21,6.774
+Australia,2021-10-22,6.739
+Australia,2021-10-23,6.705
+Australia,2021-10-24,6.671
+Australia,2021-10-25,6.52
+Australia,2021-10-26,6.352
+Australia,2021-10-27,6.369
+Australia,2021-10-28,6.386
+Australia,2021-10-29,6.463
+Australia,2021-10-30,6.466
+Australia,2021-10-31,6.377
+Australia,2021-11-01,6.317
+Australia,2021-11-02,6.182
+Australia,2021-11-03,6.218
+Australia,2021-11-04,6.044
+Australia,2021-11-05,6.029
+Australia,2021-11-06,5.986
+Australia,2021-11-07,5.972
+Australia,2021-11-08,5.945
+Australia,2021-11-09,6.008
+Australia,2021-11-10,5.952
+Australia,2021-11-11,5.968
+Australia,2021-11-12,5.988
+Australia,2021-11-13,5.905
+Australia,2021-11-14,5.877
+Australia,2021-11-15,6.027
+Australia,2021-11-16,6.098
+Australia,2021-11-17,5.864
+Australia,2021-11-18,5.937
+Australia,2021-11-19,5.929
+Australia,2021-11-20,5.98
+Australia,2021-11-21,5.97
+Australia,2021-11-22,5.809
+Australia,2021-11-23,5.64
+Australia,2021-11-24,5.835
+Australia,2021-11-25,5.821
+Australia,2021-11-26,5.655
+Australia,2021-11-27,5.635
+Australia,2021-11-28,5.684
+Australia,2021-11-29,5.808
+Australia,2021-11-30,5.86
+Australia,2021-12-01,5.875
+Australia,2021-12-02,5.89
+Australia,2021-12-03,6.126
+Australia,2021-12-04,6.278
+Australia,2021-12-05,6.303
+Australia,2021-12-06,6.331
+Australia,2021-12-07,6.478
+Australia,2021-12-08,6.576
+Australia,2021-12-09,6.664
+Australia,2021-12-10,6.686
+Australia,2021-12-11,6.825
+Australia,2021-12-12,7.059
+New Zealand,2020-03-08,0.007
+New Zealand,2020-03-09,0.008
+New Zealand,2020-03-10,0.01
+New Zealand,2020-03-11,0.012
+New Zealand,2020-03-12,0.013
+New Zealand,2020-03-13,0.015
+New Zealand,2020-03-14,0.017
+New Zealand,2020-03-15,0.019
+New Zealand,2020-03-16,0.028
+New Zealand,2020-03-17,0.051
+New Zealand,2020-03-18,0.077
+New Zealand,2020-03-19,0.113
+New Zealand,2020-03-20,0.158
+New Zealand,2020-03-21,0.19
+New Zealand,2020-03-22,0.212
+New Zealand,2020-03-23,0.254
+New Zealand,2020-03-24,0.289
+New Zealand,2020-03-25,0.315
+New Zealand,2020-03-26,0.335
+New Zealand,2020-03-27,0.338
+New Zealand,2020-03-28,0.341
+New Zealand,2020-03-29,0.344
+New Zealand,2020-03-30,0.346
+New Zealand,2020-03-31,0.341
+New Zealand,2020-04-01,0.389
+New Zealand,2020-04-02,0.444
+New Zealand,2020-04-03,0.514
+New Zealand,2020-04-04,0.548
+New Zealand,2020-04-05,0.592
+New Zealand,2020-04-06,0.631
+New Zealand,2020-04-07,0.709
+New Zealand,2020-04-08,0.711
+New Zealand,2020-04-09,0.703
+New Zealand,2020-04-10,0.629
+New Zealand,2020-04-11,0.607
+New Zealand,2020-04-12,0.574
+New Zealand,2020-04-13,0.521
+New Zealand,2020-04-14,0.473
+New Zealand,2020-04-15,0.482
+New Zealand,2020-04-16,0.499
+New Zealand,2020-04-17,0.586
+New Zealand,2020-04-18,0.625
+New Zealand,2020-04-19,0.652
+New Zealand,2020-04-20,0.771
+New Zealand,2020-04-21,0.882
+New Zealand,2020-04-22,0.944
+New Zealand,2020-04-23,1.007
+New Zealand,2020-04-24,1.054
+New Zealand,2020-04-25,1.041
+New Zealand,2020-04-26,1.035
+New Zealand,2020-04-27,0.932
+New Zealand,2020-04-28,0.876
+New Zealand,2020-04-29,0.851
+New Zealand,2020-04-30,0.818
+New Zealand,2020-05-01,0.794
+New Zealand,2020-05-02,0.795
+New Zealand,2020-05-03,0.783
+New Zealand,2020-05-04,0.872
+New Zealand,2020-05-05,0.921
+New Zealand,2020-05-06,0.975
+New Zealand,2020-05-07,1.04
+New Zealand,2020-05-08,1.118
+New Zealand,2020-05-09,1.136
+New Zealand,2020-05-10,1.138
+New Zealand,2020-05-11,1.143
+New Zealand,2020-05-12,1.161
+New Zealand,2020-05-13,1.149
+New Zealand,2020-05-14,1.115
+New Zealand,2020-05-15,1.041
+New Zealand,2020-05-16,1.011
+New Zealand,2020-05-17,1.006
+New Zealand,2020-05-18,1.005
+New Zealand,2020-05-19,0.955
+New Zealand,2020-05-20,0.921
+New Zealand,2020-05-21,0.895
+New Zealand,2020-05-22,0.866
+New Zealand,2020-05-23,0.841
+New Zealand,2020-05-24,0.829
+New Zealand,2020-05-25,0.802
+New Zealand,2020-05-26,0.755
+New Zealand,2020-05-27,0.694
+New Zealand,2020-05-28,0.622
+New Zealand,2020-05-29,0.557
+New Zealand,2020-05-30,0.538
+New Zealand,2020-05-31,0.511
+New Zealand,2020-06-01,0.407
+New Zealand,2020-06-02,0.327
+New Zealand,2020-06-03,0.305
+New Zealand,2020-06-04,0.296
+New Zealand,2020-06-05,0.312
+New Zealand,2020-06-06,0.349
+New Zealand,2020-06-07,0.366
+New Zealand,2020-06-08,0.375
+New Zealand,2020-06-09,0.416
+New Zealand,2020-06-10,0.436
+New Zealand,2020-06-11,0.442
+New Zealand,2020-06-12,0.44
+New Zealand,2020-06-13,0.451
+New Zealand,2020-06-14,0.45
+New Zealand,2020-06-15,0.463
+New Zealand,2020-06-16,0.489
+New Zealand,2020-06-17,0.528
+New Zealand,2020-06-18,0.623
+New Zealand,2020-06-19,0.756
+New Zealand,2020-06-20,0.856
+New Zealand,2020-06-21,0.931
+New Zealand,2020-06-22,1.006
+New Zealand,2020-06-23,1.157
+New Zealand,2020-06-24,1.311
+New Zealand,2020-06-25,1.414
+New Zealand,2020-06-26,1.453
+New Zealand,2020-06-27,1.436
+New Zealand,2020-06-28,1.418
+New Zealand,2020-06-29,1.353
+New Zealand,2020-06-30,1.235
+New Zealand,2020-07-01,1.041
+New Zealand,2020-07-02,0.866
+New Zealand,2020-07-03,0.671
+New Zealand,2020-07-04,0.534
+New Zealand,2020-07-05,0.529
+New Zealand,2020-07-06,0.53
+New Zealand,2020-07-07,0.459
+New Zealand,2020-07-08,0.448
+New Zealand,2020-07-09,0.418
+New Zealand,2020-07-10,0.419
+New Zealand,2020-07-11,0.45
+New Zealand,2020-07-12,0.408
+New Zealand,2020-07-13,0.399
+New Zealand,2020-07-14,0.416
+New Zealand,2020-07-15,0.411
+New Zealand,2020-07-16,0.402
+New Zealand,2020-07-17,0.415
+New Zealand,2020-07-18,0.407
+New Zealand,2020-07-19,0.396
+New Zealand,2020-07-20,0.38
+New Zealand,2020-07-21,0.364
+New Zealand,2020-07-22,0.351
+New Zealand,2020-07-23,0.362
+New Zealand,2020-07-24,0.357
+New Zealand,2020-07-25,0.364
+New Zealand,2020-07-26,0.362
+New Zealand,2020-07-27,0.38
+New Zealand,2020-07-28,0.386
+New Zealand,2020-07-29,0.387
+New Zealand,2020-07-30,0.378
+New Zealand,2020-07-31,0.397
+New Zealand,2020-08-01,0.417
+New Zealand,2020-08-02,0.446
+New Zealand,2020-08-03,0.449
+New Zealand,2020-08-04,0.496
+New Zealand,2020-08-05,0.566
+New Zealand,2020-08-06,0.612
+New Zealand,2020-08-07,0.62
+New Zealand,2020-08-08,0.667
+New Zealand,2020-08-09,0.685
+New Zealand,2020-08-10,0.685
+New Zealand,2020-08-11,0.686
+New Zealand,2020-08-12,0.716
+New Zealand,2020-08-13,1.04
+New Zealand,2020-08-14,1.598
+New Zealand,2020-08-15,2.153
+New Zealand,2020-08-16,2.785
+New Zealand,2020-08-17,3.252
+New Zealand,2020-08-18,3.769
+New Zealand,2020-08-19,4.093
+New Zealand,2020-08-20,4.065
+New Zealand,2020-08-21,3.748
+New Zealand,2020-08-22,3.282
+New Zealand,2020-08-23,2.709
+New Zealand,2020-08-24,2.312
+New Zealand,2020-08-25,1.916
+New Zealand,2020-08-26,1.67
+New Zealand,2020-08-27,1.552
+New Zealand,2020-08-28,1.501
+New Zealand,2020-08-29,1.591
+New Zealand,2020-08-30,1.649
+New Zealand,2020-08-31,1.781
+New Zealand,2020-09-01,1.855
+New Zealand,2020-09-02,1.904
+New Zealand,2020-09-03,1.881
+New Zealand,2020-09-04,1.844
+New Zealand,2020-09-05,1.768
+New Zealand,2020-09-06,1.697
+New Zealand,2020-09-07,1.578
+New Zealand,2020-09-08,1.491
+New Zealand,2020-09-09,1.412
+New Zealand,2020-09-10,1.383
+New Zealand,2020-09-11,1.385
+New Zealand,2020-09-12,1.377
+New Zealand,2020-09-13,1.373
+New Zealand,2020-09-14,1.352
+New Zealand,2020-09-15,1.368
+New Zealand,2020-09-16,1.386
+New Zealand,2020-09-17,1.363
+New Zealand,2020-09-18,1.33
+New Zealand,2020-09-19,1.276
+New Zealand,2020-09-20,1.262
+New Zealand,2020-09-21,1.251
+New Zealand,2020-09-22,1.202
+New Zealand,2020-09-23,1.138
+New Zealand,2020-09-24,1.102
+New Zealand,2020-09-25,1.05
+New Zealand,2020-09-26,1.037
+New Zealand,2020-09-27,1.044
+New Zealand,2020-09-28,1.036
+New Zealand,2020-09-29,0.985
+New Zealand,2020-09-30,0.972
+New Zealand,2020-10-01,0.925
+New Zealand,2020-10-02,0.938
+New Zealand,2020-10-03,0.909
+New Zealand,2020-10-04,0.88
+New Zealand,2020-10-05,0.874
+New Zealand,2020-10-06,0.893
+New Zealand,2020-10-07,0.908
+New Zealand,2020-10-08,0.932
+New Zealand,2020-10-09,0.888
+New Zealand,2020-10-10,0.883
+New Zealand,2020-10-11,0.868
+New Zealand,2020-10-12,0.867
+New Zealand,2020-10-13,0.872
+New Zealand,2020-10-14,0.845
+New Zealand,2020-10-15,0.831
+New Zealand,2020-10-16,0.83
+New Zealand,2020-10-17,0.819
+New Zealand,2020-10-18,0.812
+New Zealand,2020-10-19,0.803
+New Zealand,2020-10-20,0.816
+New Zealand,2020-10-21,0.869
+New Zealand,2020-10-22,0.896
+New Zealand,2020-10-23,0.977
+New Zealand,2020-10-24,1.033
+New Zealand,2020-10-25,1.068
+New Zealand,2020-10-26,1.057
+New Zealand,2020-10-27,0.974
+New Zealand,2020-10-28,0.983
+New Zealand,2020-10-29,1.022
+New Zealand,2020-10-30,0.974
+New Zealand,2020-10-31,0.946
+New Zealand,2020-11-01,0.946
+New Zealand,2020-11-02,0.95
+New Zealand,2020-11-03,1.057
+New Zealand,2020-11-04,0.974
+New Zealand,2020-11-05,0.889
+New Zealand,2020-11-06,0.845
+New Zealand,2020-11-07,0.885
+New Zealand,2020-11-08,0.915
+New Zealand,2020-11-09,0.932
+New Zealand,2020-11-10,0.814
+New Zealand,2020-11-11,0.858
+New Zealand,2020-11-12,0.919
+New Zealand,2020-11-13,0.997
+New Zealand,2020-11-14,1.011
+New Zealand,2020-11-15,1.189
+New Zealand,2020-11-16,1.252
+New Zealand,2020-11-17,1.341
+New Zealand,2020-11-18,1.408
+New Zealand,2020-11-19,1.466
+New Zealand,2020-11-20,1.524
+New Zealand,2020-11-21,1.543
+New Zealand,2020-11-22,1.431
+New Zealand,2020-11-23,1.374
+New Zealand,2020-11-24,1.302
+New Zealand,2020-11-25,1.23
+New Zealand,2020-11-26,1.241
+New Zealand,2020-11-27,1.19
+New Zealand,2020-11-28,1.187
+New Zealand,2020-11-29,1.125
+New Zealand,2020-11-30,1.153
+New Zealand,2020-12-01,1.142
+New Zealand,2020-12-02,1.178
+New Zealand,2020-12-03,1.088
+New Zealand,2020-12-04,1.071
+New Zealand,2020-12-05,1.047
+New Zealand,2020-12-06,1.081
+New Zealand,2020-12-07,1.026
+New Zealand,2020-12-08,1.018
+New Zealand,2020-12-09,0.999
+New Zealand,2020-12-10,0.988
+New Zealand,2020-12-11,0.949
+New Zealand,2020-12-12,0.913
+New Zealand,2020-12-13,0.892
+New Zealand,2020-12-14,0.889
+New Zealand,2020-12-15,0.924
+New Zealand,2020-12-16,0.861
+New Zealand,2020-12-17,0.858
+New Zealand,2020-12-18,0.855
+New Zealand,2020-12-19,0.844
+New Zealand,2020-12-20,0.834
+New Zealand,2020-12-21,0.833
+New Zealand,2020-12-22,0.822
+New Zealand,2020-12-23,0.811
+New Zealand,2020-12-24,0.755
+New Zealand,2020-12-25,0.699
+New Zealand,2020-12-26,0.669
+New Zealand,2020-12-27,0.639
+New Zealand,2020-12-28,0.636
+New Zealand,2020-12-29,0.589
+New Zealand,2020-12-30,0.581
+New Zealand,2020-12-31,0.585
+New Zealand,2021-01-01,0.573
+New Zealand,2021-01-02,0.56
+New Zealand,2021-01-03,0.547
+New Zealand,2021-01-04,0.558
+New Zealand,2021-01-05,0.57
+New Zealand,2021-01-06,0.577
+New Zealand,2021-01-07,0.584
+New Zealand,2021-01-08,0.613
+New Zealand,2021-01-09,0.641
+New Zealand,2021-01-10,0.67
+New Zealand,2021-01-11,0.677
+New Zealand,2021-01-12,0.706
+New Zealand,2021-01-13,0.701
+New Zealand,2021-01-14,0.721
+New Zealand,2021-01-15,0.736
+New Zealand,2021-01-16,0.723
+New Zealand,2021-01-17,0.71
+New Zealand,2021-01-18,0.686
+New Zealand,2021-01-19,0.679
+New Zealand,2021-01-20,0.673
+New Zealand,2021-01-21,0.666
+New Zealand,2021-01-22,0.659
+New Zealand,2021-01-23,0.655
+New Zealand,2021-01-24,0.651
+New Zealand,2021-01-25,0.674
+New Zealand,2021-01-26,0.682
+New Zealand,2021-01-27,0.892
+New Zealand,2021-01-28,1.007
+New Zealand,2021-01-29,1.061
+New Zealand,2021-01-30,1.189
+New Zealand,2021-01-31,1.256
+New Zealand,2021-02-01,1.266
+New Zealand,2021-02-02,1.23
+New Zealand,2021-02-03,1.043
+New Zealand,2021-02-04,0.954
+New Zealand,2021-02-05,0.919
+New Zealand,2021-02-06,0.804
+New Zealand,2021-02-07,0.75
+New Zealand,2021-02-08,0.77
+New Zealand,2021-02-09,0.806
+New Zealand,2021-02-10,0.792
+New Zealand,2021-02-11,0.749
+New Zealand,2021-02-12,0.755
+New Zealand,2021-02-13,0.763
+New Zealand,2021-02-14,0.771
+New Zealand,2021-02-15,0.754
+New Zealand,2021-02-16,0.817
+New Zealand,2021-02-17,1.203
+New Zealand,2021-02-18,1.566
+New Zealand,2021-02-19,1.726
+New Zealand,2021-02-20,1.903
+New Zealand,2021-02-21,1.997
+New Zealand,2021-02-22,2.018
+New Zealand,2021-02-23,1.971
+New Zealand,2021-02-24,1.703
+New Zealand,2021-02-25,1.497
+New Zealand,2021-02-26,1.478
+New Zealand,2021-02-27,1.404
+New Zealand,2021-02-28,1.365
+New Zealand,2021-03-01,1.386
+New Zealand,2021-03-02,1.519
+New Zealand,2021-03-03,1.747
+New Zealand,2021-03-04,1.898
+New Zealand,2021-03-05,1.933
+New Zealand,2021-03-06,1.983
+New Zealand,2021-03-07,2.003
+New Zealand,2021-03-08,1.984
+New Zealand,2021-03-09,1.913
+New Zealand,2021-03-10,1.642
+New Zealand,2021-03-11,1.408
+New Zealand,2021-03-12,1.266
+New Zealand,2021-03-13,1.123
+New Zealand,2021-03-14,1.056
+New Zealand,2021-03-15,1.067
+New Zealand,2021-03-16,1.024
+New Zealand,2021-03-17,0.98
+New Zealand,2021-03-18,0.937
+New Zealand,2021-03-19,0.894
+New Zealand,2021-03-20,0.885
+New Zealand,2021-03-21,0.877
+New Zealand,2021-03-22,0.868
+New Zealand,2021-03-23,0.812
+New Zealand,2021-03-24,0.856
+New Zealand,2021-03-25,0.9
+New Zealand,2021-03-26,0.965
+New Zealand,2021-03-27,0.99
+New Zealand,2021-03-28,0.998
+New Zealand,2021-03-29,0.963
+New Zealand,2021-03-30,0.99
+New Zealand,2021-03-31,0.985
+New Zealand,2021-04-01,0.975
+New Zealand,2021-04-02,0.874
+New Zealand,2021-04-03,0.835
+New Zealand,2021-04-04,0.813
+New Zealand,2021-04-05,0.793
+New Zealand,2021-04-06,0.746
+New Zealand,2021-04-07,0.669
+New Zealand,2021-04-08,0.689
+New Zealand,2021-04-09,0.733
+New Zealand,2021-04-10,0.777
+New Zealand,2021-04-11,0.799
+New Zealand,2021-04-12,0.819
+New Zealand,2021-04-13,0.855
+New Zealand,2021-04-14,0.916
+New Zealand,2021-04-15,0.883
+New Zealand,2021-04-16,0.872
+New Zealand,2021-04-17,0.83
+New Zealand,2021-04-18,0.809
+New Zealand,2021-04-19,0.833
+New Zealand,2021-04-20,0.831
+New Zealand,2021-04-21,0.808
+New Zealand,2021-04-22,0.8
+New Zealand,2021-04-23,0.801
+New Zealand,2021-04-24,0.827
+New Zealand,2021-04-25,0.828
+New Zealand,2021-04-26,0.783
+New Zealand,2021-04-27,0.748
+New Zealand,2021-04-28,0.709
+New Zealand,2021-04-29,0.713
+New Zealand,2021-04-30,0.729
+New Zealand,2021-05-01,0.716
+New Zealand,2021-05-02,0.728
+New Zealand,2021-05-03,0.735
+New Zealand,2021-05-04,0.756
+New Zealand,2021-05-05,0.813
+New Zealand,2021-05-06,0.797
+New Zealand,2021-05-07,0.783
+New Zealand,2021-05-08,0.801
+New Zealand,2021-05-09,0.773
+New Zealand,2021-05-10,0.775
+New Zealand,2021-05-11,0.775
+New Zealand,2021-05-12,0.769
+New Zealand,2021-05-13,0.772
+New Zealand,2021-05-14,0.742
+New Zealand,2021-05-15,0.706
+New Zealand,2021-05-16,0.717
+New Zealand,2021-05-17,0.714
+New Zealand,2021-05-18,0.713
+New Zealand,2021-05-19,0.717
+New Zealand,2021-05-20,0.714
+New Zealand,2021-05-21,0.743
+New Zealand,2021-05-22,0.743
+New Zealand,2021-05-23,0.742
+New Zealand,2021-05-24,0.736
+New Zealand,2021-05-25,0.742
+New Zealand,2021-05-26,0.727
+New Zealand,2021-05-27,0.732
+New Zealand,2021-05-28,0.743
+New Zealand,2021-05-29,0.796
+New Zealand,2021-05-30,0.849
+New Zealand,2021-05-31,0.875
+New Zealand,2021-06-01,0.878
+New Zealand,2021-06-02,0.902
+New Zealand,2021-06-03,0.927
+New Zealand,2021-06-04,0.917
+New Zealand,2021-06-05,0.884
+New Zealand,2021-06-06,0.851
+New Zealand,2021-06-07,0.825
+New Zealand,2021-06-08,0.796
+New Zealand,2021-06-09,0.743
+New Zealand,2021-06-10,0.735
+New Zealand,2021-06-11,0.739
+New Zealand,2021-06-12,0.751
+New Zealand,2021-06-13,0.763
+New Zealand,2021-06-14,0.767
+New Zealand,2021-06-15,0.787
+New Zealand,2021-06-16,0.836
+New Zealand,2021-06-17,0.832
+New Zealand,2021-06-18,0.841
+New Zealand,2021-06-19,0.824
+New Zealand,2021-06-20,0.807
+New Zealand,2021-06-21,0.817
+New Zealand,2021-06-22,0.821
+New Zealand,2021-06-23,0.834
+New Zealand,2021-06-24,0.876
+New Zealand,2021-06-25,1.029
+New Zealand,2021-06-26,1.16
+New Zealand,2021-06-27,1.221
+New Zealand,2021-06-28,1.249
+New Zealand,2021-06-29,1.372
+New Zealand,2021-06-30,1.488
+New Zealand,2021-07-01,1.51
+New Zealand,2021-07-02,1.408
+New Zealand,2021-07-03,1.312
+New Zealand,2021-07-04,1.284
+New Zealand,2021-07-05,1.273
+New Zealand,2021-07-06,1.212
+New Zealand,2021-07-07,1.133
+New Zealand,2021-07-08,1.111
+New Zealand,2021-07-09,1.001
+New Zealand,2021-07-10,1.016
+New Zealand,2021-07-11,1.031
+New Zealand,2021-07-12,1.026
+New Zealand,2021-07-13,0.982
+New Zealand,2021-07-14,1.208
+New Zealand,2021-07-15,1.216
+New Zealand,2021-07-16,1.298
+New Zealand,2021-07-17,1.302
+New Zealand,2021-07-18,1.306
+New Zealand,2021-07-19,1.327
+New Zealand,2021-07-20,1.333
+New Zealand,2021-07-21,1.101
+New Zealand,2021-07-22,1.093
+New Zealand,2021-07-23,1.119
+New Zealand,2021-07-24,1.092
+New Zealand,2021-07-25,1.065
+New Zealand,2021-07-26,1.097
+New Zealand,2021-07-27,1.129
+New Zealand,2021-07-28,1.186
+New Zealand,2021-07-29,1.243
+New Zealand,2021-07-30,1.301
+New Zealand,2021-07-31,1.297
+New Zealand,2021-08-01,1.293
+New Zealand,2021-08-02,1.29
+New Zealand,2021-08-03,1.286
+New Zealand,2021-08-04,1.233
+New Zealand,2021-08-05,1.179
+New Zealand,2021-08-06,1.125
+New Zealand,2021-08-07,1.138
+New Zealand,2021-08-08,1.15
+New Zealand,2021-08-09,1.075
+New Zealand,2021-08-10,1.037
+New Zealand,2021-08-11,1.013
+New Zealand,2021-08-12,1.015
+New Zealand,2021-08-13,0.984
+New Zealand,2021-08-14,0.95
+New Zealand,2021-08-15,0.917
+New Zealand,2021-08-16,0.97
+New Zealand,2021-08-17,0.986
+New Zealand,2021-08-18,1.008
+New Zealand,2021-08-19,1.165
+New Zealand,2021-08-20,1.774
+New Zealand,2021-08-21,2.82
+New Zealand,2021-08-22,3.744
+New Zealand,2021-08-23,4.668
+New Zealand,2021-08-24,5.745
+New Zealand,2021-08-25,6.735
+New Zealand,2021-08-26,7.54
+New Zealand,2021-08-27,7.795
+New Zealand,2021-08-28,7.654
+New Zealand,2021-08-29,7.265
+New Zealand,2021-08-30,6.688
+New Zealand,2021-08-31,5.968
+New Zealand,2021-09-01,5.399
+New Zealand,2021-09-02,4.728
+New Zealand,2021-09-03,4.053
+New Zealand,2021-09-04,3.345
+New Zealand,2021-09-05,2.957
+New Zealand,2021-09-06,2.633
+New Zealand,2021-09-07,2.368
+New Zealand,2021-09-08,2.181
+New Zealand,2021-09-09,2.119
+New Zealand,2021-09-10,2.148
+New Zealand,2021-09-11,2.265
+New Zealand,2021-09-12,2.313
+New Zealand,2021-09-13,2.422
+New Zealand,2021-09-14,2.479
+New Zealand,2021-09-15,2.503
+New Zealand,2021-09-16,2.528
+New Zealand,2021-09-17,2.572
+New Zealand,2021-09-18,2.494
+New Zealand,2021-09-19,2.573
+New Zealand,2021-09-20,2.557
+New Zealand,2021-09-21,2.531
+New Zealand,2021-09-22,2.602
+New Zealand,2021-09-23,2.681
+New Zealand,2021-09-24,2.666
+New Zealand,2021-09-25,2.717
+New Zealand,2021-09-26,2.707
+New Zealand,2021-09-27,2.674
+New Zealand,2021-09-28,2.719
+New Zealand,2021-09-29,2.623
+New Zealand,2021-09-30,2.549
+New Zealand,2021-10-01,2.708
+New Zealand,2021-10-02,2.882
+New Zealand,2021-10-03,2.934
+New Zealand,2021-10-04,3.169
+New Zealand,2021-10-05,3.307
+New Zealand,2021-10-06,3.565
+New Zealand,2021-10-07,3.756
+New Zealand,2021-10-08,4.018
+New Zealand,2021-10-09,4.107
+New Zealand,2021-10-10,4.25
+New Zealand,2021-10-11,4.251
+New Zealand,2021-10-12,4.297
+New Zealand,2021-10-13,4.328
+New Zealand,2021-10-14,4.474
+New Zealand,2021-10-15,4.414
+New Zealand,2021-10-16,4.419
+New Zealand,2021-10-17,4.516
+New Zealand,2021-10-18,4.754
+New Zealand,2021-10-19,4.764
+New Zealand,2021-10-20,4.779
+New Zealand,2021-10-21,4.724
+New Zealand,2021-10-22,4.726
+New Zealand,2021-10-23,4.79
+New Zealand,2021-10-24,4.855
+New Zealand,2021-10-25,4.867
+New Zealand,2021-10-26,4.798
+New Zealand,2021-10-27,4.553
+New Zealand,2021-10-28,4.531
+New Zealand,2021-10-29,4.654
+New Zealand,2021-10-30,4.644
+New Zealand,2021-10-31,4.634
+New Zealand,2021-11-01,4.676
+New Zealand,2021-11-02,4.776
+New Zealand,2021-11-03,5.11
+New Zealand,2021-11-04,5.278
+New Zealand,2021-11-05,5.184
+New Zealand,2021-11-06,5.232
+New Zealand,2021-11-07,5.298
+New Zealand,2021-11-08,5.1
+New Zealand,2021-11-09,5.084
+New Zealand,2021-11-10,5.041
+New Zealand,2021-11-11,4.894
+New Zealand,2021-11-12,4.943
+New Zealand,2021-11-13,4.942
+New Zealand,2021-11-14,4.923
+New Zealand,2021-11-15,5.168
+New Zealand,2021-11-16,5.285
+New Zealand,2021-11-17,5.44
+New Zealand,2021-11-18,5.633
+New Zealand,2021-11-19,5.587
+New Zealand,2021-11-20,5.696
+New Zealand,2021-11-21,5.805
+New Zealand,2021-11-22,5.697
+New Zealand,2021-11-23,5.753
+New Zealand,2021-11-24,5.807
+New Zealand,2021-11-25,5.833
+New Zealand,2021-11-26,5.888
+New Zealand,2021-11-27,5.893
+New Zealand,2021-11-28,5.624
+New Zealand,2021-11-29,5.571
+New Zealand,2021-11-30,5.518
+New Zealand,2021-12-01,5.42
+New Zealand,2021-12-02,5.377
+New Zealand,2021-12-03,5.4
+New Zealand,2021-12-04,5.36
+New Zealand,2021-12-05,5.595
+New Zealand,2021-12-06,5.496
+New Zealand,2021-12-07,5.621
+New Zealand,2021-12-08,5.463
+New Zealand,2021-12-09,5.514
+New Zealand,2021-12-10,5.012
+New Zealand,2021-12-11,4.554
+New Zealand,2021-12-12,5.165
+New Zealand,2021-12-13,5.098
+New Zealand,2021-12-14,4.932
+United Kingdom,2020-04-07,0.201
+United Kingdom,2020-04-08,0.207
+United Kingdom,2020-04-09,0.21
+United Kingdom,2020-04-10,0.213
+United Kingdom,2020-04-11,0.213
+United Kingdom,2020-04-12,0.214
+United Kingdom,2020-04-13,0.211
+United Kingdom,2020-04-14,0.213
+United Kingdom,2020-04-15,0.215
+United Kingdom,2020-04-16,0.216
+United Kingdom,2020-04-17,0.219
+United Kingdom,2020-04-18,0.222
+United Kingdom,2020-04-19,0.225
+United Kingdom,2020-04-20,0.269
+United Kingdom,2020-04-21,0.281
+United Kingdom,2020-04-22,0.289
+United Kingdom,2020-04-23,0.294
+United Kingdom,2020-04-24,0.304
+United Kingdom,2020-04-25,0.307
+United Kingdom,2020-04-26,0.316
+United Kingdom,2020-04-27,0.283
+United Kingdom,2020-04-28,0.29
+United Kingdom,2020-04-29,0.32
+United Kingdom,2020-04-30,0.361
+United Kingdom,2020-05-01,0.396
+United Kingdom,2020-05-02,0.418
+United Kingdom,2020-05-03,0.434
+United Kingdom,2020-05-04,0.46
+United Kingdom,2020-05-05,0.478
+United Kingdom,2020-05-06,0.474
+United Kingdom,2020-05-07,0.462
+United Kingdom,2020-05-08,0.448
+United Kingdom,2020-05-09,0.449
+United Kingdom,2020-05-10,0.449
+United Kingdom,2020-05-11,0.443
+United Kingdom,2020-05-12,0.442
+United Kingdom,2020-05-13,0.442
+United Kingdom,2020-05-14,0.439
+United Kingdom,2020-05-15,0.449
+United Kingdom,2020-05-16,0.456
+United Kingdom,2020-05-17,0.452
+United Kingdom,2020-05-18,0.459
+United Kingdom,2020-05-19,0.455
+United Kingdom,2020-05-20,0.467
+United Kingdom,2020-05-21,0.479
+United Kingdom,2020-05-22,0.476
+United Kingdom,2020-05-23,0.477
+United Kingdom,2020-05-24,0.483
+United Kingdom,2020-05-25,0.479
+United Kingdom,2020-05-26,0.478
+United Kingdom,2020-05-27,0.473
+United Kingdom,2020-05-28,0.473
+United Kingdom,2020-05-29,0.476
+United Kingdom,2020-05-30,0.475
+United Kingdom,2020-05-31,0.475
+United Kingdom,2020-06-01,0.481
+United Kingdom,2020-06-02,0.499
+United Kingdom,2020-06-03,0.508
+United Kingdom,2020-06-04,0.512
+United Kingdom,2020-06-05,0.515
+United Kingdom,2020-06-06,0.524
+United Kingdom,2020-06-07,0.531
+United Kingdom,2020-06-08,0.536
+United Kingdom,2020-06-09,0.545
+United Kingdom,2020-06-10,0.552
+United Kingdom,2020-06-11,0.556
+United Kingdom,2020-06-12,0.561
+United Kingdom,2020-06-13,0.567
+United Kingdom,2020-06-14,0.569
+United Kingdom,2020-06-15,0.578
+United Kingdom,2020-06-16,0.58
+United Kingdom,2020-06-17,0.581
+United Kingdom,2020-06-18,0.592
+United Kingdom,2020-06-19,0.592
+United Kingdom,2020-06-20,0.589
+United Kingdom,2020-06-21,0.586
+United Kingdom,2020-06-22,0.595
+United Kingdom,2020-06-23,0.602
+United Kingdom,2020-06-24,0.603
+United Kingdom,2020-06-25,0.639
+United Kingdom,2020-06-26,0.646
+United Kingdom,2020-06-27,0.656
+United Kingdom,2020-06-28,0.66
+United Kingdom,2020-06-29,0.663
+United Kingdom,2020-06-30,0.666
+United Kingdom,2020-07-01,0.678
+United Kingdom,2020-07-02,0.646
+United Kingdom,2020-07-03,0.653
+United Kingdom,2020-07-04,0.653
+United Kingdom,2020-07-05,0.667
+United Kingdom,2020-07-06,0.666
+United Kingdom,2020-07-07,0.673
+United Kingdom,2020-07-08,0.688
+United Kingdom,2020-07-09,0.716
+United Kingdom,2020-07-10,0.726
+United Kingdom,2020-07-11,0.753
+United Kingdom,2020-07-12,0.749
+United Kingdom,2020-07-13,0.813
+United Kingdom,2020-07-14,0.941
+United Kingdom,2020-07-15,1.098
+United Kingdom,2020-07-16,1.283
+United Kingdom,2020-07-17,1.503
+United Kingdom,2020-07-18,1.645
+United Kingdom,2020-07-19,1.778
+United Kingdom,2020-07-20,1.804
+United Kingdom,2020-07-21,1.822
+United Kingdom,2020-07-22,1.819
+United Kingdom,2020-07-23,1.787
+United Kingdom,2020-07-24,1.752
+United Kingdom,2020-07-25,1.777
+United Kingdom,2020-07-26,1.786
+United Kingdom,2020-07-27,1.78
+United Kingdom,2020-07-28,1.799
+United Kingdom,2020-07-29,1.824
+United Kingdom,2020-07-30,1.866
+United Kingdom,2020-07-31,1.878
+United Kingdom,2020-08-01,1.872
+United Kingdom,2020-08-02,1.911
+United Kingdom,2020-08-03,1.997
+United Kingdom,2020-08-04,2.019
+United Kingdom,2020-08-05,2.04
+United Kingdom,2020-08-06,2.059
+United Kingdom,2020-08-07,2.078
+United Kingdom,2020-08-08,2.112
+United Kingdom,2020-08-09,2.165
+United Kingdom,2020-08-10,2.192
+United Kingdom,2020-08-11,2.205
+United Kingdom,2020-08-12,2.238
+United Kingdom,2020-08-13,2.232
+United Kingdom,2020-08-14,2.257
+United Kingdom,2020-08-15,2.316
+United Kingdom,2020-08-16,2.348
+United Kingdom,2020-08-17,2.357
+United Kingdom,2020-08-18,2.369
+United Kingdom,2020-08-19,2.382
+United Kingdom,2020-08-20,2.405
+United Kingdom,2020-08-21,2.431
+United Kingdom,2020-08-22,2.424
+United Kingdom,2020-08-23,2.407
+United Kingdom,2020-08-24,2.4
+United Kingdom,2020-08-25,2.421
+United Kingdom,2020-08-26,2.451
+United Kingdom,2020-08-27,2.457
+United Kingdom,2020-08-28,2.432
+United Kingdom,2020-08-29,2.431
+United Kingdom,2020-08-30,2.452
+United Kingdom,2020-08-31,2.498
+United Kingdom,2020-09-01,2.499
+United Kingdom,2020-09-02,2.482
+United Kingdom,2020-09-03,2.499
+United Kingdom,2020-09-04,2.541
+United Kingdom,2020-09-05,2.532
+United Kingdom,2020-09-06,2.538
+United Kingdom,2020-09-07,2.582
+United Kingdom,2020-09-08,2.631
+United Kingdom,2020-09-09,2.683
+United Kingdom,2020-09-10,2.767
+United Kingdom,2020-09-11,2.874
+United Kingdom,2020-09-12,2.989
+United Kingdom,2020-09-13,3.08
+United Kingdom,2020-09-14,3.139
+United Kingdom,2020-09-15,3.215
+United Kingdom,2020-09-16,3.284
+United Kingdom,2020-09-17,3.309
+United Kingdom,2020-09-18,3.338
+United Kingdom,2020-09-19,3.377
+United Kingdom,2020-09-20,3.391
+United Kingdom,2020-09-21,3.351
+United Kingdom,2020-09-22,3.34
+United Kingdom,2020-09-23,3.327
+United Kingdom,2020-09-24,3.356
+United Kingdom,2020-09-25,3.369
+United Kingdom,2020-09-26,3.357
+United Kingdom,2020-09-27,3.372
+United Kingdom,2020-09-28,3.393
+United Kingdom,2020-09-29,3.379
+United Kingdom,2020-09-30,3.386
+United Kingdom,2020-10-01,3.356
+United Kingdom,2020-10-02,3.336
+United Kingdom,2020-10-03,3.374
+United Kingdom,2020-10-04,3.367
+United Kingdom,2020-10-05,3.439
+United Kingdom,2020-10-06,3.498
+United Kingdom,2020-10-07,3.505
+United Kingdom,2020-10-08,3.583
+United Kingdom,2020-10-09,3.641
+United Kingdom,2020-10-10,3.648
+United Kingdom,2020-10-11,3.677
+United Kingdom,2020-10-12,3.611
+United Kingdom,2020-10-13,3.635
+United Kingdom,2020-10-14,3.718
+United Kingdom,2020-10-15,3.735
+United Kingdom,2020-10-16,3.76
+United Kingdom,2020-10-17,3.805
+United Kingdom,2020-10-18,3.896
+United Kingdom,2020-10-19,3.968
+United Kingdom,2020-10-20,3.987
+United Kingdom,2020-10-21,4.004
+United Kingdom,2020-10-22,4.083
+United Kingdom,2020-10-23,4.131
+United Kingdom,2020-10-24,4.141
+United Kingdom,2020-10-25,4.162
+United Kingdom,2020-10-26,4.138
+United Kingdom,2020-10-27,4.135
+United Kingdom,2020-10-28,4.131
+United Kingdom,2020-10-29,4.137
+United Kingdom,2020-10-30,4.064
+United Kingdom,2020-10-31,4.056
+United Kingdom,2020-11-01,3.959
+United Kingdom,2020-11-02,3.886
+United Kingdom,2020-11-03,3.875
+United Kingdom,2020-11-04,3.891
+United Kingdom,2020-11-05,3.902
+United Kingdom,2020-11-06,4.036
+United Kingdom,2020-11-07,4.1
+United Kingdom,2020-11-08,4.144
+United Kingdom,2020-11-09,4.229
+United Kingdom,2020-11-10,4.292
+United Kingdom,2020-11-11,4.421
+United Kingdom,2020-11-12,4.501
+United Kingdom,2020-11-13,4.549
+United Kingdom,2020-11-14,4.593
+United Kingdom,2020-11-15,4.586
+United Kingdom,2020-11-16,4.562
+United Kingdom,2020-11-17,4.535
+United Kingdom,2020-11-18,4.502
+United Kingdom,2020-11-19,4.494
+United Kingdom,2020-11-20,4.474
+United Kingdom,2020-11-21,4.473
+United Kingdom,2020-11-22,4.419
+United Kingdom,2020-11-23,4.354
+United Kingdom,2020-11-24,4.392
+United Kingdom,2020-11-25,4.362
+United Kingdom,2020-11-26,4.349
+United Kingdom,2020-11-27,4.246
+United Kingdom,2020-11-28,4.149
+United Kingdom,2020-11-29,4.064
+United Kingdom,2020-11-30,4.086
+United Kingdom,2020-12-01,4.095
+United Kingdom,2020-12-02,4.106
+United Kingdom,2020-12-03,4.134
+United Kingdom,2020-12-04,4.247
+United Kingdom,2020-12-05,4.355
+United Kingdom,2020-12-06,4.482
+United Kingdom,2020-12-07,4.505
+United Kingdom,2020-12-08,4.477
+United Kingdom,2020-12-09,4.555
+United Kingdom,2020-12-10,4.579
+United Kingdom,2020-12-11,4.606
+United Kingdom,2020-12-12,4.614
+United Kingdom,2020-12-13,4.7
+United Kingdom,2020-12-14,4.821
+United Kingdom,2020-12-15,4.857
+United Kingdom,2020-12-16,4.821
+United Kingdom,2020-12-17,4.791
+United Kingdom,2020-12-18,4.792
+United Kingdom,2020-12-19,4.981
+United Kingdom,2020-12-20,5.208
+United Kingdom,2020-12-21,5.516
+United Kingdom,2020-12-22,5.813
+United Kingdom,2020-12-23,6.112
+United Kingdom,2020-12-24,6.319
+United Kingdom,2020-12-25,6.248
+United Kingdom,2020-12-26,5.914
+United Kingdom,2020-12-27,5.802
+United Kingdom,2020-12-28,5.674
+United Kingdom,2020-12-29,5.427
+United Kingdom,2020-12-30,5.238
+United Kingdom,2020-12-31,5.278
+United Kingdom,2021-01-01,5.414
+United Kingdom,2021-01-02,5.708
+United Kingdom,2021-01-03,5.843
+United Kingdom,2021-01-04,6.075
+United Kingdom,2021-01-05,6.416
+United Kingdom,2021-01-06,6.707
+United Kingdom,2021-01-07,6.951
+United Kingdom,2021-01-08,7.461
+United Kingdom,2021-01-09,7.707
+United Kingdom,2021-01-10,7.76
+United Kingdom,2021-01-11,7.877
+United Kingdom,2021-01-12,8.003
+United Kingdom,2021-01-13,8.134
+United Kingdom,2021-01-14,8.265
+United Kingdom,2021-01-15,8.114
+United Kingdom,2021-01-16,7.991
+United Kingdom,2021-01-17,7.894
+United Kingdom,2021-01-18,7.935
+United Kingdom,2021-01-19,7.96
+United Kingdom,2021-01-20,8.013
+United Kingdom,2021-01-21,7.977
+United Kingdom,2021-01-22,8.047
+United Kingdom,2021-01-23,8.039
+United Kingdom,2021-01-24,8.036
+United Kingdom,2021-01-25,8.024
+United Kingdom,2021-01-26,8.076
+United Kingdom,2021-01-27,8.333
+United Kingdom,2021-01-28,8.522
+United Kingdom,2021-01-29,8.598
+United Kingdom,2021-01-30,8.504
+United Kingdom,2021-01-31,8.889
+United Kingdom,2021-02-01,9.097
+United Kingdom,2021-02-02,9.114
+United Kingdom,2021-02-03,9.175
+United Kingdom,2021-02-04,9.239
+United Kingdom,2021-02-05,9.256
+United Kingdom,2021-02-06,9.291
+United Kingdom,2021-02-07,9.298
+United Kingdom,2021-02-08,9.245
+United Kingdom,2021-02-09,9.152
+United Kingdom,2021-02-10,9.059
+United Kingdom,2021-02-11,8.92
+United Kingdom,2021-02-12,8.794
+United Kingdom,2021-02-13,8.651
+United Kingdom,2021-02-14,8.214
+United Kingdom,2021-02-15,7.845
+United Kingdom,2021-02-16,7.685
+United Kingdom,2021-02-17,7.291
+United Kingdom,2021-02-18,6.937
+United Kingdom,2021-02-19,6.734
+United Kingdom,2021-02-20,6.768
+United Kingdom,2021-02-21,7.174
+United Kingdom,2021-02-22,7.645
+United Kingdom,2021-02-23,7.871
+United Kingdom,2021-02-24,8.231
+United Kingdom,2021-02-25,8.628
+United Kingdom,2021-02-26,8.823
+United Kingdom,2021-02-27,8.788
+United Kingdom,2021-02-28,8.69
+United Kingdom,2021-03-01,8.821
+United Kingdom,2021-03-02,9.03
+United Kingdom,2021-03-03,9.294
+United Kingdom,2021-03-04,9.826
+United Kingdom,2021-03-05,10.558
+United Kingdom,2021-03-06,10.707
+United Kingdom,2021-03-07,11.278
+United Kingdom,2021-03-08,12.958
+United Kingdom,2021-03-09,14.387
+United Kingdom,2021-03-10,15.857
+United Kingdom,2021-03-11,17.162
+United Kingdom,2021-03-12,18.104
+United Kingdom,2021-03-13,18.072
+United Kingdom,2021-03-14,18.402
+United Kingdom,2021-03-15,18.482
+United Kingdom,2021-03-16,18.356
+United Kingdom,2021-03-17,18.502
+United Kingdom,2021-03-18,18.141
+United Kingdom,2021-03-19,17.134
+United Kingdom,2021-03-20,17.183
+United Kingdom,2021-03-21,19.105
+United Kingdom,2021-03-22,18.294
+United Kingdom,2021-03-23,17.286
+United Kingdom,2021-03-24,17.641
+United Kingdom,2021-03-25,17.308
+United Kingdom,2021-03-26,16.869
+United Kingdom,2021-03-27,16.879
+United Kingdom,2021-03-28,16.363
+United Kingdom,2021-03-29,15.92
+United Kingdom,2021-03-30,15.627
+United Kingdom,2021-03-31,14.512
+United Kingdom,2021-04-01,13.827
+United Kingdom,2021-04-02,13.502
+United Kingdom,2021-04-03,13.38
+United Kingdom,2021-04-04,11.663
+United Kingdom,2021-04-05,11.209
+United Kingdom,2021-04-06,11.085
+United Kingdom,2021-04-07,10.588
+United Kingdom,2021-04-08,10.554
+United Kingdom,2021-04-09,10.804
+United Kingdom,2021-04-10,10.963
+United Kingdom,2021-04-11,11.81
+United Kingdom,2021-04-12,12.087
+United Kingdom,2021-04-13,12.187
+United Kingdom,2021-04-14,12.46
+United Kingdom,2021-04-15,12.571
+United Kingdom,2021-04-16,12.586
+United Kingdom,2021-04-17,12.609
+United Kingdom,2021-04-18,13.581
+United Kingdom,2021-04-19,13.905
+United Kingdom,2021-04-20,14.032
+United Kingdom,2021-04-21,14.471
+United Kingdom,2021-04-22,14.689
+United Kingdom,2021-04-23,14.747
+United Kingdom,2021-04-24,14.742
+United Kingdom,2021-04-25,14.286
+United Kingdom,2021-04-26,14.251
+United Kingdom,2021-04-27,14.213
+United Kingdom,2021-04-28,14.17
+United Kingdom,2021-04-29,14.126
+United Kingdom,2021-04-30,14.022
+United Kingdom,2021-05-01,14.004
+United Kingdom,2021-05-02,12.667
+United Kingdom,2021-05-03,12.76
+United Kingdom,2021-05-04,13.043
+United Kingdom,2021-05-05,12.757
+United Kingdom,2021-05-06,12.776
+United Kingdom,2021-05-07,12.874
+United Kingdom,2021-05-08,12.889
+United Kingdom,2021-05-09,13.919
+United Kingdom,2021-05-10,13.691
+United Kingdom,2021-05-11,13.382
+United Kingdom,2021-05-12,13.317
+United Kingdom,2021-05-13,13.141
+United Kingdom,2021-05-14,13.07
+United Kingdom,2021-05-15,13.01
+United Kingdom,2021-05-16,12.521
+United Kingdom,2021-05-17,12.602
+United Kingdom,2021-05-18,12.648
+United Kingdom,2021-05-19,12.641
+United Kingdom,2021-05-20,12.663
+United Kingdom,2021-05-21,12.743
+United Kingdom,2021-05-22,12.821
+United Kingdom,2021-05-23,12.987
+United Kingdom,2021-05-24,12.877
+United Kingdom,2021-05-25,12.892
+United Kingdom,2021-05-26,12.775
+United Kingdom,2021-05-27,12.696
+United Kingdom,2021-05-28,12.601
+United Kingdom,2021-05-29,12.56
+United Kingdom,2021-05-30,11.411
+United Kingdom,2021-05-31,10.684
+United Kingdom,2021-06-01,10.529
+United Kingdom,2021-06-02,9.961
+United Kingdom,2021-06-03,9.643
+United Kingdom,2021-06-04,9.636
+United Kingdom,2021-06-05,9.643
+United Kingdom,2021-06-06,10.944
+United Kingdom,2021-06-07,11.635
+United Kingdom,2021-06-08,11.766
+United Kingdom,2021-06-09,12.242
+United Kingdom,2021-06-10,12.574
+United Kingdom,2021-06-11,12.734
+United Kingdom,2021-06-12,12.835
+United Kingdom,2021-06-13,12.445
+United Kingdom,2021-06-14,12.46
+United Kingdom,2021-06-15,12.568
+United Kingdom,2021-06-16,12.618
+United Kingdom,2021-06-17,12.804
+United Kingdom,2021-06-18,12.901
+United Kingdom,2021-06-19,13.019
+United Kingdom,2021-06-20,13.216
+United Kingdom,2021-06-21,13.403
+United Kingdom,2021-06-22,13.498
+United Kingdom,2021-06-23,13.619
+United Kingdom,2021-06-24,13.655
+United Kingdom,2021-06-25,13.787
+United Kingdom,2021-06-26,13.856
+United Kingdom,2021-06-27,13.999
+United Kingdom,2021-06-28,14.14
+United Kingdom,2021-06-29,14.259
+United Kingdom,2021-06-30,14.437
+United Kingdom,2021-07-01,14.55
+United Kingdom,2021-07-02,14.591
+United Kingdom,2021-07-03,14.662
+United Kingdom,2021-07-04,14.776
+United Kingdom,2021-07-05,14.913
+United Kingdom,2021-07-06,15.09
+United Kingdom,2021-07-07,15.057
+United Kingdom,2021-07-08,15.03
+United Kingdom,2021-07-09,15.109
+United Kingdom,2021-07-10,15.286
+United Kingdom,2021-07-11,14.959
+United Kingdom,2021-07-12,14.774
+United Kingdom,2021-07-13,14.705
+United Kingdom,2021-07-14,14.653
+United Kingdom,2021-07-15,14.837
+United Kingdom,2021-07-16,14.978
+United Kingdom,2021-07-17,15.077
+United Kingdom,2021-07-18,14.928
+United Kingdom,2021-07-19,15.009
+United Kingdom,2021-07-20,14.917
+United Kingdom,2021-07-21,14.569
+United Kingdom,2021-07-22,14.264
+United Kingdom,2021-07-23,14.127
+United Kingdom,2021-07-24,14.072
+United Kingdom,2021-07-25,13.549
+United Kingdom,2021-07-26,12.942
+United Kingdom,2021-07-27,12.747
+United Kingdom,2021-07-28,12.481
+United Kingdom,2021-07-29,12.111
+United Kingdom,2021-07-30,11.964
+United Kingdom,2021-07-31,11.793
+United Kingdom,2021-08-01,11.541
+United Kingdom,2021-08-02,11.352
+United Kingdom,2021-08-03,11.258
+United Kingdom,2021-08-04,11.127
+United Kingdom,2021-08-05,11.017
+United Kingdom,2021-08-06,10.92
+United Kingdom,2021-08-07,10.889
+United Kingdom,2021-08-08,10.927
+United Kingdom,2021-08-09,10.929
+United Kingdom,2021-08-10,10.929
+United Kingdom,2021-08-11,10.914
+United Kingdom,2021-08-12,10.932
+United Kingdom,2021-08-13,11
+United Kingdom,2021-08-14,10.988
+United Kingdom,2021-08-15,10.956
+United Kingdom,2021-08-16,10.902
+United Kingdom,2021-08-17,10.858
+United Kingdom,2021-08-18,10.828
+United Kingdom,2021-08-19,10.841
+United Kingdom,2021-08-20,10.708
+United Kingdom,2021-08-21,10.707
+United Kingdom,2021-08-22,10.721
+United Kingdom,2021-08-23,10.792
+United Kingdom,2021-08-24,10.834
+United Kingdom,2021-08-25,11.041
+United Kingdom,2021-08-26,11.325
+United Kingdom,2021-08-27,11.602
+United Kingdom,2021-08-28,11.744
+United Kingdom,2021-08-29,11.798
+United Kingdom,2021-08-30,11.66
+United Kingdom,2021-08-31,12.023
+United Kingdom,2021-09-01,12.247
+United Kingdom,2021-09-02,12.693
+United Kingdom,2021-09-03,13.32
+United Kingdom,2021-09-04,13.395
+United Kingdom,2021-09-05,14.102
+United Kingdom,2021-09-06,15.521
+United Kingdom,2021-09-07,16.008
+United Kingdom,2021-09-08,16.472
+United Kingdom,2021-09-09,16.601
+United Kingdom,2021-09-10,16.363
+United Kingdom,2021-09-11,16.336
+United Kingdom,2021-09-12,16.411
+United Kingdom,2021-09-13,15.768
+United Kingdom,2021-09-14,15.215
+United Kingdom,2021-09-15,14.845
+United Kingdom,2021-09-16,14.49
+United Kingdom,2021-09-17,14.149
+United Kingdom,2021-09-18,14.061
+United Kingdom,2021-09-19,14.163
+United Kingdom,2021-09-20,14.074
+United Kingdom,2021-09-21,14.074
+United Kingdom,2021-09-22,13.855
+United Kingdom,2021-09-23,13.804
+United Kingdom,2021-09-24,13.765
+United Kingdom,2021-09-25,13.924
+United Kingdom,2021-09-26,13.904
+United Kingdom,2021-09-27,13.929
+United Kingdom,2021-09-28,13.907
+United Kingdom,2021-09-29,14.222
+United Kingdom,2021-09-30,14.262
+United Kingdom,2021-10-01,14.25
+United Kingdom,2021-10-02,14.153
+United Kingdom,2021-10-03,13.946
+United Kingdom,2021-10-04,13.827
+United Kingdom,2021-10-05,13.799
+United Kingdom,2021-10-06,13.682
+United Kingdom,2021-10-07,13.504
+United Kingdom,2021-10-08,13.555
+United Kingdom,2021-10-09,13.504
+United Kingdom,2021-10-10,13.422
+United Kingdom,2021-10-11,13.412
+United Kingdom,2021-10-12,13.448
+United Kingdom,2021-10-13,13.011
+United Kingdom,2021-10-14,13.479
+United Kingdom,2021-10-15,13.46
+United Kingdom,2021-10-16,13.528
+United Kingdom,2021-10-17,13.554
+United Kingdom,2021-10-18,13.502
+United Kingdom,2021-10-19,13.509
+United Kingdom,2021-10-20,14.017
+United Kingdom,2021-10-21,13.649
+United Kingdom,2021-10-22,13.658
+United Kingdom,2021-10-23,13.589
+United Kingdom,2021-10-24,13.157
+United Kingdom,2021-10-25,12.957
+United Kingdom,2021-10-26,12.789
+United Kingdom,2021-10-27,12.367
+United Kingdom,2021-10-28,12.021
+United Kingdom,2021-10-29,11.851
+United Kingdom,2021-10-30,11.769
+United Kingdom,2021-10-31,12.109
+United Kingdom,2021-11-01,12.274
+United Kingdom,2021-11-02,12.392
+United Kingdom,2021-11-03,12.603
+United Kingdom,2021-11-04,12.716
+United Kingdom,2021-11-05,12.703
+United Kingdom,2021-11-06,12.661
+United Kingdom,2021-11-07,12.491
+United Kingdom,2021-11-08,12.522
+United Kingdom,2021-11-09,12.494
+United Kingdom,2021-11-10,12.549
+United Kingdom,2021-11-11,12.68
+United Kingdom,2021-11-12,12.69
+United Kingdom,2021-11-13,12.722
+United Kingdom,2021-11-14,12.823
+United Kingdom,2021-11-15,12.815
+United Kingdom,2021-11-16,12.726
+United Kingdom,2021-11-17,12.895
+United Kingdom,2021-11-18,12.88
+United Kingdom,2021-11-19,12.954
+United Kingdom,2021-11-20,13.072
+United Kingdom,2021-11-21,13.373
+United Kingdom,2021-11-22,13.504
+United Kingdom,2021-11-23,13.785
+United Kingdom,2021-11-24,13.749
+United Kingdom,2021-11-25,13.919
+United Kingdom,2021-11-26,13.953
+United Kingdom,2021-11-27,13.955
+United Kingdom,2021-11-28,13.842
+United Kingdom,2021-11-29,13.905
+United Kingdom,2021-11-30,14.038
+United Kingdom,2021-12-01,14.264
+United Kingdom,2021-12-02,14.463
+United Kingdom,2021-12-03,14.817
+United Kingdom,2021-12-04,15.107
+United Kingdom,2021-12-05,15.382
+United Kingdom,2021-12-06,15.58
+United Kingdom,2021-12-07,15.678
+United Kingdom,2021-12-08,15.835
+United Kingdom,2021-12-09,16.199
+United Kingdom,2021-12-10,16.501
+United Kingdom,2021-12-11,16.814
+United Kingdom,2021-12-12,17.06
+United Kingdom,2021-12-13,17.479
+United Kingdom,2021-12-14,18.033
+United States,2020-03-08,0.003
+United States,2020-03-09,0.004
+United States,2020-03-10,0.006
+United States,2020-03-11,0.007
+United States,2020-03-12,0.011
+United States,2020-03-13,0.015
+United States,2020-03-14,0.02
+United States,2020-03-15,0.025
+United States,2020-03-16,0.036
+United States,2020-03-17,0.051
+United States,2020-03-18,0.071
+United States,2020-03-19,0.093
+United States,2020-03-20,0.121
+United States,2020-03-21,0.148
+United States,2020-03-22,0.173
+United States,2020-03-23,0.196
+United States,2020-03-24,0.224
+United States,2020-03-25,0.251
+United States,2020-03-26,0.281
+United States,2020-03-27,0.306
+United States,2020-03-28,0.326
+United States,2020-03-29,0.342
+United States,2020-03-30,0.36
+United States,2020-03-31,0.376
+United States,2020-04-01,0.393
+United States,2020-04-02,0.407
+United States,2020-04-03,0.421
+United States,2020-04-04,0.432
+United States,2020-04-05,0.445
+United States,2020-04-06,0.453
+United States,2020-04-07,0.469
+United States,2020-04-08,0.476
+United States,2020-04-09,0.481
+United States,2020-04-10,0.482
+United States,2020-04-11,0.509
+United States,2020-04-12,0.497
+United States,2020-04-13,0.485
+United States,2020-04-14,0.478
+United States,2020-04-15,0.479
+United States,2020-04-16,0.484
+United States,2020-04-17,0.495
+United States,2020-04-18,0.477
+United States,2020-04-19,0.486
+United States,2020-04-20,0.506
+United States,2020-04-21,0.531
+United States,2020-04-22,0.559
+United States,2020-04-23,0.58
+United States,2020-04-24,0.606
+United States,2020-04-25,0.628
+United States,2020-04-26,0.644
+United States,2020-04-27,0.672
+United States,2020-04-28,0.693
+United States,2020-04-29,0.718
+United States,2020-04-30,0.757
+United States,2020-05-01,0.79
+United States,2020-05-02,0.811
+United States,2020-05-03,0.83
+United States,2020-05-04,0.84
+United States,2020-05-05,0.862
+United States,2020-05-06,0.89
+United States,2020-05-07,0.907
+United States,2020-05-08,0.936
+United States,2020-05-09,0.964
+United States,2020-05-10,0.979
+United States,2020-05-11,1.008
+United States,2020-05-12,1.052
+United States,2020-05-13,1.091
+United States,2020-05-14,1.129
+United States,2020-05-15,1.147
+United States,2020-05-16,1.16
+United States,2020-05-17,1.183
+United States,2020-05-18,1.198
+United States,2020-05-19,1.203
+United States,2020-05-20,1.208
+United States,2020-05-21,1.212
+United States,2020-05-22,1.232
+United States,2020-05-23,1.243
+United States,2020-05-24,1.261
+United States,2020-05-25,1.25
+United States,2020-05-26,1.262
+United States,2020-05-27,1.301
+United States,2020-05-28,1.334
+United States,2020-05-29,1.358
+United States,2020-05-30,1.385
+United States,2020-05-31,1.396
+United States,2020-06-01,1.444
+United States,2020-06-02,1.47
+United States,2020-06-03,1.482
+United States,2020-06-04,1.517
+United States,2020-06-05,1.529
+United States,2020-06-06,1.533
+United States,2020-06-07,1.547
+United States,2020-06-08,1.551
+United States,2020-06-09,1.568
+United States,2020-06-10,1.588
+United States,2020-06-11,1.586
+United States,2020-06-12,1.605
+United States,2020-06-13,1.634
+United States,2020-06-14,1.637
+United States,2020-06-15,1.662
+United States,2020-06-16,1.71
+United States,2020-06-17,1.743
+United States,2020-06-18,1.78
+United States,2020-06-19,1.818
+United States,2020-06-20,1.84
+United States,2020-06-21,1.844
+United States,2020-06-22,1.862
+United States,2020-06-23,1.874
+United States,2020-06-24,1.9
+United States,2020-06-25,1.93
+United States,2020-06-26,1.975
+United States,2020-06-27,2.022
+United States,2020-06-28,2.084
+United States,2020-06-29,2.134
+United States,2020-06-30,2.201
+United States,2020-07-01,2.252
+United States,2020-07-02,2.289
+United States,2020-07-03,2.285
+United States,2020-07-04,2.254
+United States,2020-07-05,2.237
+United States,2020-07-06,2.263
+United States,2020-07-07,2.283
+United States,2020-07-08,2.325
+United States,2020-07-09,2.391
+United States,2020-07-10,2.483
+United States,2020-07-11,2.577
+United States,2020-07-12,2.65
+United States,2020-07-13,2.711
+United States,2020-07-14,2.754
+United States,2020-07-15,2.778
+United States,2020-07-16,2.785
+United States,2020-07-17,2.798
+United States,2020-07-18,2.829
+United States,2020-07-19,2.838
+United States,2020-07-20,2.855
+United States,2020-07-21,2.869
+United States,2020-07-22,2.901
+United States,2020-07-23,2.925
+United States,2020-07-24,2.936
+United States,2020-07-25,2.923
+United States,2020-07-26,2.906
+United States,2020-07-27,2.859
+United States,2020-07-28,2.83
+United States,2020-07-29,2.8
+United States,2020-07-30,2.78
+United States,2020-07-31,2.744
+United States,2020-08-01,2.706
+United States,2020-08-02,2.683
+United States,2020-08-03,2.674
+United States,2020-08-04,2.638
+United States,2020-08-05,2.606
+United States,2020-08-06,2.585
+United States,2020-08-07,2.596
+United States,2020-08-08,2.606
+United States,2020-08-09,2.607
+United States,2020-08-10,2.61
+United States,2020-08-11,2.621
+United States,2020-08-12,2.648
+United States,2020-08-13,2.644
+United States,2020-08-14,2.62
+United States,2020-08-15,2.6
+United States,2020-08-16,2.577
+United States,2020-08-17,2.53
+United States,2020-08-18,2.524
+United States,2020-08-19,2.514
+United States,2020-08-20,2.521
+United States,2020-08-21,2.523
+United States,2020-08-22,2.534
+United States,2020-08-23,2.53
+United States,2020-08-24,2.525
+United States,2020-08-25,2.53
+United States,2020-08-26,2.535
+United States,2020-08-27,2.546
+United States,2020-08-28,2.555
+United States,2020-08-29,2.557
+United States,2020-08-30,2.58
+United States,2020-08-31,2.577
+United States,2020-09-01,2.578
+United States,2020-09-02,2.582
+United States,2020-09-03,2.588
+United States,2020-09-04,2.593
+United States,2020-09-05,2.601
+United States,2020-09-06,2.58
+United States,2020-09-07,2.474
+United States,2020-09-08,2.369
+United States,2020-09-09,2.34
+United States,2020-09-10,2.363
+United States,2020-09-11,2.407
+United States,2020-09-12,2.428
+United States,2020-09-13,2.455
+United States,2020-09-14,2.581
+United States,2020-09-15,2.711
+United States,2020-09-16,2.788
+United States,2020-09-17,2.818
+United States,2020-09-18,2.874
+United States,2020-09-19,2.905
+United States,2020-09-20,2.903
+United States,2020-09-21,2.921
+United States,2020-09-22,2.948
+United States,2020-09-23,2.976
+United States,2020-09-24,2.995
+United States,2020-09-25,2.952
+United States,2020-09-26,2.952
+United States,2020-09-27,2.941
+United States,2020-09-28,2.906
+United States,2020-09-29,2.886
+United States,2020-09-30,2.885
+United States,2020-10-01,2.894
+United States,2020-10-02,2.921
+United States,2020-10-03,2.937
+United States,2020-10-04,2.955
+United States,2020-10-05,3.015
+United States,2020-10-06,3.119
+United States,2020-10-07,3.21
+United States,2020-10-08,3.299
+United States,2020-10-09,3.389
+United States,2020-10-10,3.444
+United States,2020-10-11,3.489
+United States,2020-10-12,3.49
+United States,2020-10-13,3.421
+United States,2020-10-14,3.342
+United States,2020-10-15,3.288
+United States,2020-10-16,3.257
+United States,2020-10-17,3.263
+United States,2020-10-18,3.272
+United States,2020-10-19,3.301
+United States,2020-10-20,3.392
+United States,2020-10-21,3.499
+United States,2020-10-22,3.597
+United States,2020-10-23,3.656
+United States,2020-10-24,3.683
+United States,2020-10-25,3.693
+United States,2020-10-26,3.727
+United States,2020-10-27,3.753
+United States,2020-10-28,3.764
+United States,2020-10-29,3.744
+United States,2020-10-30,3.759
+United States,2020-10-31,3.776
+United States,2020-11-01,3.822
+United States,2020-11-02,3.848
+United States,2020-11-03,3.859
+United States,2020-11-04,3.914
+United States,2020-11-05,4.004
+United States,2020-11-06,4.079
+United States,2020-11-07,4.18
+United States,2020-11-08,4.228
+United States,2020-11-09,4.317
+United States,2020-11-10,4.392
+United States,2020-11-11,4.46
+United States,2020-11-12,4.528
+United States,2020-11-13,4.625
+United States,2020-11-14,4.686
+United States,2020-11-15,4.766
+United States,2020-11-16,4.881
+United States,2020-11-17,5.038
+United States,2020-11-18,5.17
+United States,2020-11-19,5.266
+United States,2020-11-20,5.371
+United States,2020-11-21,5.482
+United States,2020-11-22,5.578
+United States,2020-11-23,5.656
+United States,2020-11-24,5.685
+United States,2020-11-25,5.739
+United States,2020-11-26,5.494
+United States,2020-11-27,5.22
+United States,2020-11-28,5.002
+United States,2020-11-29,4.886
+United States,2020-11-30,4.796
+United States,2020-12-01,4.741
+United States,2020-12-02,4.687
+United States,2020-12-03,4.962
+United States,2020-12-04,5.222
+United States,2020-12-05,5.369
+United States,2020-12-06,5.43
+United States,2020-12-07,5.462
+United States,2020-12-08,5.493
+United States,2020-12-09,5.504
+United States,2020-12-10,5.519
+United States,2020-12-11,5.493
+United States,2020-12-12,5.506
+United States,2020-12-13,5.487
+United States,2020-12-14,5.467
+United States,2020-12-15,5.48
+United States,2020-12-16,5.46
+United States,2020-12-17,5.404
+United States,2020-12-18,5.39
+United States,2020-12-19,5.385
+United States,2020-12-20,5.397
+United States,2020-12-21,5.411
+United States,2020-12-22,5.43
+United States,2020-12-23,5.516
+United States,2020-12-24,5.447
+United States,2020-12-25,5.042
+United States,2020-12-26,4.734
+United States,2020-12-27,4.592
+United States,2020-12-28,4.49
+United States,2020-12-29,4.438
+United States,2020-12-30,4.399
+United States,2020-12-31,4.413
+United States,2021-01-01,4.489
+United States,2021-01-02,4.543
+United States,2021-01-03,4.588
+United States,2021-01-04,4.638
+United States,2021-01-05,4.684
+United States,2021-01-06,4.748
+United States,2021-01-07,4.892
+United States,2021-01-08,5.276
+United States,2021-01-09,5.534
+United States,2021-01-10,5.585
+United States,2021-01-11,5.637
+United States,2021-01-12,5.665
+United States,2021-01-13,5.571
+United States,2021-01-14,5.497
+United States,2021-01-15,5.454
+United States,2021-01-16,5.401
+United States,2021-01-17,5.362
+United States,2021-01-18,5.261
+United States,2021-01-19,5.167
+United States,2021-01-20,5.177
+United States,2021-01-21,5.168
+United States,2021-01-22,5.12
+United States,2021-01-23,5.101
+United States,2021-01-24,5.072
+United States,2021-01-25,5.049
+United States,2021-01-26,5.039
+United States,2021-01-27,5.01
+United States,2021-01-28,4.947
+United States,2021-01-29,4.912
+United States,2021-01-30,4.866
+United States,2021-01-31,4.841
+United States,2021-02-01,4.754
+United States,2021-02-02,4.688
+United States,2021-02-03,4.603
+United States,2021-02-04,4.611
+United States,2021-02-05,4.604
+United States,2021-02-06,4.556
+United States,2021-02-07,4.505
+United States,2021-02-08,4.51
+United States,2021-02-09,4.536
+United States,2021-02-10,4.437
+United States,2021-02-11,4.216
+United States,2021-02-12,4.036
+United States,2021-02-13,3.937
+United States,2021-02-14,3.866
+United States,2021-02-15,3.76
+United States,2021-02-16,3.568
+United States,2021-02-17,3.495
+United States,2021-02-18,3.493
+United States,2021-02-19,3.467
+United States,2021-02-20,3.448
+United States,2021-02-21,3.457
+United States,2021-02-22,3.561
+United States,2021-02-23,3.731
+United States,2021-02-24,3.824
+United States,2021-02-25,3.909
+United States,2021-02-26,3.963
+United States,2021-02-27,3.97
+United States,2021-02-28,3.949
+United States,2021-03-01,3.929
+United States,2021-03-02,3.914
+United States,2021-03-03,3.935
+United States,2021-03-04,3.91
+United States,2021-03-05,3.89
+United States,2021-03-06,3.886
+United States,2021-03-07,3.876
+United States,2021-03-08,3.869
+United States,2021-03-09,3.838
+United States,2021-03-10,3.785
+United States,2021-03-11,3.762
+United States,2021-03-12,3.748
+United States,2021-03-13,3.73
+United States,2021-03-14,3.716
+United States,2021-03-15,3.704
+United States,2021-03-16,3.687
+United States,2021-03-17,3.687
+United States,2021-03-18,3.676
+United States,2021-03-19,3.653
+United States,2021-03-20,3.637
+United States,2021-03-21,3.652
+United States,2021-03-22,3.663
+United States,2021-03-23,3.676
+United States,2021-03-24,3.693
+United States,2021-03-25,3.681
+United States,2021-03-26,3.694
+United States,2021-03-27,3.698
+United States,2021-03-28,3.702
+United States,2021-03-29,3.716
+United States,2021-03-30,3.716
+United States,2021-03-31,3.683
+United States,2021-04-01,3.68
+United States,2021-04-02,3.668
+United States,2021-04-03,3.655
+United States,2021-04-04,3.63
+United States,2021-04-05,3.604
+United States,2021-04-06,3.612
+United States,2021-04-07,3.648
+United States,2021-04-08,3.679
+United States,2021-04-09,3.724
+United States,2021-04-10,3.742
+United States,2021-04-11,3.776
+United States,2021-04-12,3.821
+United States,2021-04-13,3.846
+United States,2021-04-14,3.849
+United States,2021-04-15,3.835
+United States,2021-04-16,3.836
+United States,2021-04-17,3.835
+United States,2021-04-18,3.821
+United States,2021-04-19,3.805
+United States,2021-04-20,3.786
+United States,2021-04-21,3.778
+United States,2021-04-22,3.783
+United States,2021-04-23,3.764
+United States,2021-04-24,3.758
+United States,2021-04-25,3.748
+United States,2021-04-26,3.739
+United States,2021-04-27,3.741
+United States,2021-04-28,3.709
+United States,2021-04-29,3.676
+United States,2021-04-30,3.635
+United States,2021-05-01,3.596
+United States,2021-05-02,3.567
+United States,2021-05-03,3.523
+United States,2021-05-04,3.458
+United States,2021-05-05,3.437
+United States,2021-05-06,3.39
+United States,2021-05-07,3.331
+United States,2021-05-08,3.309
+United States,2021-05-09,3.292
+United States,2021-05-10,3.277
+United States,2021-05-11,3.239
+United States,2021-05-12,3.16
+United States,2021-05-13,3.11
+United States,2021-05-14,3.071
+United States,2021-05-15,3.043
+United States,2021-05-16,3.03
+United States,2021-05-17,3.003
+United States,2021-05-18,2.951
+United States,2021-05-19,2.88
+United States,2021-05-20,2.8
+United States,2021-05-21,2.757
+United States,2021-05-22,2.724
+United States,2021-05-23,2.704
+United States,2021-05-24,2.668
+United States,2021-05-25,2.607
+United States,2021-05-26,2.551
+United States,2021-05-27,2.517
+United States,2021-05-28,2.454
+United States,2021-05-29,2.398
+United States,2021-05-30,2.377
+United States,2021-05-31,2.207
+United States,2021-06-01,2.05
+United States,2021-06-02,2.076
+United States,2021-06-03,2.102
+United States,2021-06-04,2.116
+United States,2021-06-05,2.132
+United States,2021-06-06,2.135
+United States,2021-06-07,2.276
+United States,2021-06-08,2.352
+United States,2021-06-09,2.248
+United States,2021-06-10,2.16
+United States,2021-06-11,2.115
+United States,2021-06-12,2.09
+United States,2021-06-13,2.08
+United States,2021-06-14,2.059
+United States,2021-06-15,2.036
+United States,2021-06-16,2.002
+United States,2021-06-17,1.975
+United States,2021-06-18,1.944
+United States,2021-06-19,1.917
+United States,2021-06-20,1.911
+United States,2021-06-21,1.898
+United States,2021-06-22,1.876
+United States,2021-06-23,1.864
+United States,2021-06-24,1.851
+United States,2021-06-25,1.842
+United States,2021-06-26,1.84
+United States,2021-06-27,1.842
+United States,2021-06-28,1.834
+United States,2021-06-29,1.798
+United States,2021-06-30,1.76
+United States,2021-07-01,1.739
+United States,2021-07-02,1.709
+United States,2021-07-03,1.69
+United States,2021-07-04,1.657
+United States,2021-07-05,1.554
+United States,2021-07-06,1.509
+United States,2021-07-07,1.553
+United States,2021-07-08,1.588
+United States,2021-07-09,1.616
+United States,2021-07-10,1.633
+United States,2021-07-11,1.668
+United States,2021-07-12,1.788
+United States,2021-07-13,1.852
+United States,2021-07-14,1.844
+United States,2021-07-15,1.863
+United States,2021-07-16,1.888
+United States,2021-07-17,1.905
+United States,2021-07-18,1.929
+United States,2021-07-19,1.959
+United States,2021-07-20,2.028
+United States,2021-07-21,2.1
+United States,2021-07-22,2.164
+United States,2021-07-23,2.231
+United States,2021-07-24,2.285
+United States,2021-07-25,2.326
+United States,2021-07-26,2.38
+United States,2021-07-27,2.438
+United States,2021-07-28,2.513
+United States,2021-07-29,2.595
+United States,2021-07-30,2.667
+United States,2021-07-31,2.714
+United States,2021-08-01,2.747
+United States,2021-08-02,2.825
+United States,2021-08-03,2.923
+United States,2021-08-04,3.016
+United States,2021-08-05,3.132
+United States,2021-08-06,3.254
+United States,2021-08-07,3.355
+United States,2021-08-08,3.418
+United States,2021-08-09,3.489
+United States,2021-08-10,3.561
+United States,2021-08-11,3.651
+United States,2021-08-12,3.715
+United States,2021-08-13,3.797
+United States,2021-08-14,3.852
+United States,2021-08-15,3.886
+United States,2021-08-16,3.949
+United States,2021-08-17,4.023
+United States,2021-08-18,4.096
+United States,2021-08-19,4.149
+United States,2021-08-20,4.157
+United States,2021-08-21,4.177
+United States,2021-08-22,4.196
+United States,2021-08-23,4.214
+United States,2021-08-24,4.301
+United States,2021-08-25,4.407
+United States,2021-08-26,4.536
+United States,2021-08-27,4.681
+United States,2021-08-28,4.79
+United States,2021-08-29,4.849
+United States,2021-08-30,4.897
+United States,2021-08-31,4.959
+United States,2021-09-01,4.997
+United States,2021-09-02,5.002
+United States,2021-09-03,4.996
+United States,2021-09-04,4.964
+United States,2021-09-05,4.972
+United States,2021-09-06,4.711
+United States,2021-09-07,4.474
+United States,2021-09-08,4.474
+United States,2021-09-09,4.518
+United States,2021-09-10,4.6
+United States,2021-09-11,4.673
+United States,2021-09-12,4.668
+United States,2021-09-13,4.949
+United States,2021-09-14,5.153
+United States,2021-09-15,5.188
+United States,2021-09-16,5.159
+United States,2021-09-17,5.094
+United States,2021-09-18,5.036
+United States,2021-09-19,5.025
+United States,2021-09-20,4.981
+United States,2021-09-21,4.995
+United States,2021-09-22,4.967
+United States,2021-09-23,4.964
+United States,2021-09-24,4.966
+United States,2021-09-25,4.948
+United States,2021-09-26,4.913
+United States,2021-09-27,4.845
+United States,2021-09-28,4.826
+United States,2021-09-29,4.804
+United States,2021-09-30,4.777
+United States,2021-10-01,4.738
+United States,2021-10-02,4.724
+United States,2021-10-03,4.691
+United States,2021-10-04,4.711
+United States,2021-10-05,4.698
+United States,2021-10-06,4.684
+United States,2021-10-07,4.67
+United States,2021-10-08,4.653
+United States,2021-10-09,4.618
+United States,2021-10-10,4.586
+United States,2021-10-11,4.536
+United States,2021-10-12,4.454
+United States,2021-10-13,4.399
+United States,2021-10-14,4.384
+United States,2021-10-15,4.353
+United States,2021-10-16,4.336
+United States,2021-10-17,4.324
+United States,2021-10-18,4.351
+United States,2021-10-19,4.377
+United States,2021-10-20,4.391
+United States,2021-10-21,4.379
+United States,2021-10-22,4.336
+United States,2021-10-23,4.296
+United States,2021-10-24,4.269
+United States,2021-10-25,4.242
+United States,2021-10-26,4.226
+United States,2021-10-27,4.189
+United States,2021-10-28,4.124
+United States,2021-10-29,4.096
+United States,2021-10-30,4.072
+United States,2021-10-31,4.062
+United States,2021-11-01,4.018
+United States,2021-11-02,4
+United States,2021-11-03,4.041
+United States,2021-11-04,4.068
+United States,2021-11-05,4.085
+United States,2021-11-06,4.113
+United States,2021-11-07,4.207
+United States,2021-11-08,4.282
+United States,2021-11-09,4.374
+United States,2021-11-10,4.336
+United States,2021-11-11,4.321
+United States,2021-11-12,4.271
+United States,2021-11-13,4.268
+United States,2021-11-14,4.243
+United States,2021-11-15,4.249
+United States,2021-11-16,4.242
+United States,2021-11-17,4.3
+United States,2021-11-18,4.366
+United States,2021-11-19,4.441
+United States,2021-11-20,4.452
+United States,2021-11-21,4.445
+United States,2021-11-22,4.404
+United States,2021-11-23,4.31
+United States,2021-11-24,4.183
+United States,2021-11-25,3.707
+United States,2021-11-26,3.326
+United States,2021-11-27,3.226
+United States,2021-11-28,3.248
+United States,2021-11-29,3.328
+United States,2021-11-30,3.429
+United States,2021-12-01,3.542
+United States,2021-12-02,4.06
+United States,2021-12-03,4.523
+United States,2021-12-04,4.697
+United States,2021-12-05,4.684
+United States,2021-12-06,4.618
+United States,2021-12-07,4.542
+United States,2021-12-08,4.388
+United States,2021-12-09,4.059
+United States,2021-12-10,3.659

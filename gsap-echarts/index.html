@@ -8,19 +8,20 @@
 
 		
 
-		<link rel="modulepreload" href="/_app/start-a115235e.js">
-		<link rel="modulepreload" href="/_app/chunks/vendor-279e1e6e.js">
+		<link rel="modulepreload" href="/_app/start-ac6d9f5e.js">
+		<link rel="modulepreload" href="/_app/chunks/vendor-656fd6d9.js">
 		<link rel="modulepreload" href="/_app/chunks/singletons-12a22614.js">
-		<link rel="modulepreload" href="/_app/pages/__layout.svelte-2f60776d.js">
-		<link rel="modulepreload" href="/_app/chunks/store-7f595076.js">
-		<link rel="modulepreload" href="/_app/pages/gsap-echarts/index.svelte-a6a2625b.js">
-		<link rel="modulepreload" href="/_app/chunks/LoremIpsum-a7e9421b.js">
-		<link rel="modulepreload" href="/_app/chunks/GraphScatterMultiSeriesSerially-e0ef9d5f.js">
+		<link rel="modulepreload" href="/_app/pages/__layout.svelte-a8c08f77.js">
+		<link rel="modulepreload" href="/_app/chunks/store-7799c476.js">
+		<link rel="modulepreload" href="/_app/pages/gsap-echarts/index.svelte-e52052e1.js">
+		<link rel="modulepreload" href="/_app/chunks/LoremIpsum-c37d5197.js">
+		<link rel="modulepreload" href="/_app/chunks/GraphScatterMultiSeriesSerially-cd5eac62.js">
+		<link rel="modulepreload" href="/_app/chunks/EChart-3c628d02.js">
 		<link rel="stylesheet" href="/_app/assets/start-61d1577b.css">
-		<link rel="stylesheet" href="/_app/assets/pages/gsap-echarts/index.svelte-dd5826af.css">
+		<link rel="stylesheet" href="/_app/assets/pages/gsap-echarts/index.svelte-ea1f7942.css">
 
 		<script type="module">
-			import { start } from "/_app/start-a115235e.js";
+			import { start } from "/_app/start-ac6d9f5e.js";
 			start({
 				target: document.querySelector("#svelte"),
 				paths: {"base":"","assets":""},
@@ -33,8 +34,8 @@
 					status: 200,
 					error: null,
 					nodes: [
-						import("/_app/pages/__layout.svelte-2f60776d.js"),
-						import("/_app/pages/gsap-echarts/index.svelte-a6a2625b.js")
+						import("/_app/pages/__layout.svelte-a8c08f77.js"),
+						import("/_app/pages/gsap-echarts/index.svelte-e52052e1.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
@@ -50,7 +51,7 @@
 		<div id="svelte">
 
 
-<select><option value="/">/</option><option value="/echarts-svelte-hack">/echarts-svelte-hack</option><option value="/gsap-echarts">/gsap-echarts</option><option value="/gsap-mapbox-fly">/gsap-mapbox-fly</option><option value="/gsap-threed">/gsap-threed</option><option value="/gsap-mount-rushmore">/gsap-mount-rushmore</option></select>
+<select><option value="/">/</option><option value="/echarts-svelte-hack">/echarts-svelte-hack</option><option value="gsap-basic">gsap-basic</option><option value="/gsap-echarts">/gsap-echarts</option><option value="/gsap-mapbox-fly">/gsap-mapbox-fly</option><option value="/gsap-threed">/gsap-threed</option><option value="/gsap-mount-rushmore">/gsap-mount-rushmore</option><option value="/gsap-csv">/gsap-csv</option></select>
 
 <hr>
 
@@ -58,12 +59,12 @@
 ScrollTrigger</a> and <a target="_blank" href="https://echarts.apache.org">Apache ECharts</a>.
 </p>
 
-<div id="controls"><input type="range" min="20" max="200" step="10" value="20"> numPoints:20
+<div id="controls"><input type="range" min="20" max="200" step="10" value="50"> numPoints:50
 
-    <input type="range" min="1" max="5" step="1" value="2"> numSeries:2</div>
+    <input type="range" min="1" max="5" step="1" value="4"> numSeries:4</div>
 
-<div id="graph-line" class="svelte-1uararn"><h2>Line graphs</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+<div class="page svelte-ehv7xq"><div id="graph-line" class="svelte-ehv7xq"><h2>Line graphs</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
         condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
         non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p><p>Fringilla ut morbi tincidunt augue interdum velit euismod. Neque vitae
@@ -73,24 +74,24 @@ ScrollTrigger</a> and <a target="_blank" href="https://echarts.apache.org">Apach
         metus. Tristique senectus et netus et malesuada fames. Sem et tortor
         consequat id.</p>
 
-    <div><div id="graph-GraphLineMultiSeriesSimultaneously" style="height: 150px"></div></div>
+        <div><div id="graph-GraphLineMultiSeriesSimultaneously" style="height: 150px"></div></div>
 
-    <div><div id="graph-GraphLineMultiSeriesSerially" style="height: 150px"></div></div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        <div><div id="graph-GraphLineMultiSeriesSerially" style="height: 150px"></div></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
         condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
         non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p></div>
 
-<div id="graph-bar" class="svelte-1uararn"><h2>Bar graphs</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    <div id="graph-bar" class="svelte-ehv7xq"><h2>Bar graphs</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
         condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
         non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p>
 
-    <div><div id="graph-GraphStackedBarMultiSeriesSimultaneously" style="height: 150px"></div></div>
+        <div><div id="graph-GraphStackedBarMultiSeriesSimultaneously" style="height: 150px"></div></div>
 
-    <div><div id="graph-GraphStackedBarMultiSeriesSerially" style="height: 150px"></div></div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        <div><div id="graph-GraphStackedBarMultiSeriesSerially" style="height: 150px"></div></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
         condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
         non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p><p>Fringilla ut morbi tincidunt augue interdum velit euismod. Neque vitae
@@ -100,15 +101,16 @@ ScrollTrigger</a> and <a target="_blank" href="https://echarts.apache.org">Apach
         metus. Tristique senectus et netus et malesuada fames. Sem et tortor
         consequat id.</p></div>
 
-<div id="graph-scatter" class="svelte-1uararn"><h2>Scatter graphs</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    <div id="graph-scatter" class="svelte-ehv7xq"><h2>Scatter graphs</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Tellus at urna
         condimentum mattis pellentesque id. Proin fermentum leo vel orci porta
         non pulvinar. Ut aliquam purus sit amet luctus venenatis lectus.</p>
 
-    <div><div id="graph-GraphScatterMultiSeriesSimultaneously" style="height: 150px"></div></div>
+        <div><div id="graph-GraphScatterMultiSeriesSimultaneously" style="height: 150px"></div></div>
 
-    <div><div id="graph-GraphScatterMultiSeriesSerially" style="height: 150px"></div></div>
+        <div><div id="graph-GraphScatterMultiSeriesSerially" style="height: 150px"></div></div></div>
+
 </div>
 
 
